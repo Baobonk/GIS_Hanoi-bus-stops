@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"name": "Xã_Trung_Giã",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 11516291206, "name": "Trước hè giữa số nhà 56-58 phố Gò Sỏi - Thôn 9 - xã Hồng Kỳ - huyện Sóc Sơn", "index_right": 75, "district": "Xã Trung Giã" }, "geometry": { "type": "Point", "coordinates": [ 105.8615676, 21.2897576 ] } },
+{ "type": "Feature", "properties": { "id": 11516291207, "name": "Qua trạm thu phí Sóc Sơn, Hồng Kỳ - Km 29+200 Quốc lộ 3", "index_right": 75, "district": "Xã Trung Giã" }, "geometry": { "type": "Point", "coordinates": [ 105.8632006, 21.2950143 ] } },
+{ "type": "Feature", "properties": { "id": 11518476646, "name": "Gần trạm thu phí Sóc Sơn, Hồng Kỳ - Km 29+100 Quốc lộ 3", "index_right": 75, "district": "Xã Trung Giã" }, "geometry": { "type": "Point", "coordinates": [ 105.8627706, 21.2941682 ] } },
+{ "type": "Feature", "properties": { "id": 11518476647, "name": "Trước hè số nhà 43 phố Gò Sỏi - Thôn 9 - xã Hồng Kỳ - huyện Sóc Sơn", "index_right": 75, "district": "Xã Trung Giã" }, "geometry": { "type": "Point", "coordinates": [ 105.8611953, 21.2891136 ] } },
+{ "type": "Feature", "properties": { "id": 11533397314, "name": "Qua 50m đối diện Km8 Tỉnh lộ 35 - Tiểu đoàn 903 - Lữ đoàn 86 - Binh chủng Hoá Học", "index_right": 75, "district": "Xã Trung Giã" }, "geometry": { "type": "Point", "coordinates": [ 105.8065209, 21.2879577 ] } },
+{ "type": "Feature", "properties": { "id": 11533397315, "name": "Đối diện Trường Tiểu học xã Nam Sơn", "index_right": 75, "district": "Xã Trung Giã" }, "geometry": { "type": "Point", "coordinates": [ 105.8114927, 21.294567 ] } },
+{ "type": "Feature", "properties": { "id": 11533462563, "name": "Trường Tiểu học xã Nam Sơn", "index_right": 75, "district": "Xã Trung Giã" }, "geometry": { "type": "Point", "coordinates": [ 105.8116326, 21.2951129 ] } },
+{ "type": "Feature", "properties": { "id": 11533462564, "name": "Xưởng sửa chữa tổng hợp - Lữ đoàn 86", "index_right": 75, "district": "Xã Trung Giã" }, "geometry": { "type": "Point", "coordinates": [ 105.8058102, 21.2867997 ] } }
+]
+}

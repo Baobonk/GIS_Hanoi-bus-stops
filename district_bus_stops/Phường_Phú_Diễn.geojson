@@ -1,0 +1,31 @@
+{
+"type": "FeatureCollection",
+"name": "Phường_Phú_Diễn",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 738813403, "name": "Trung tâm kiểm định xe máy quân sự (Cầu Diễn)", "index_right": 85, "district": "Phường Phú Diễn" }, "geometry": { "type": "Point", "coordinates": [ 105.7596381, 21.0424868 ] } },
+{ "type": "Feature", "properties": { "id": 738815777, "name": "Siêu thị Metro Thăng Long", "index_right": 85, "district": "Phường Phú Diễn" }, "geometry": { "type": "Point", "coordinates": [ 105.7817141, 21.0547204 ] } },
+{ "type": "Feature", "properties": { "id": 5485775798, "name": "Ga Lê Đức Thọ", "index_right": 85, "district": "Phường Phú Diễn" }, "geometry": { "type": "Point", "coordinates": [ 105.7730121, 21.0382006 ] } },
+{ "type": "Feature", "properties": { "id": 5485775799, "name": "Đối diện Đại học Thương mại - 6 Hồ Tùng Mậu (cột sau)", "index_right": 85, "district": "Phường Phú Diễn" }, "geometry": { "type": "Point", "coordinates": [ 105.7744377, 21.0378368 ] } },
+{ "type": "Feature", "properties": { "id": 6832637185, "name": "Đối diện UBND phường Từ Liêm", "index_right": 85, "district": "Phường Phú Diễn" }, "geometry": { "type": "Point", "coordinates": [ 105.7664729, 21.0401525 ] } },
+{ "type": "Feature", "properties": { "id": 7294678089, "name": "Chung cư GreenStars", "index_right": 85, "district": "Phường Phú Diễn" }, "geometry": { "type": "Point", "coordinates": [ 105.7813729, 21.0515543 ] } },
+{ "type": "Feature", "properties": { "id": 8237141697, "name": "Đối diện 51 đường K1 Cầu Diễn", "index_right": 85, "district": "Phường Phú Diễn" }, "geometry": { "type": "Point", "coordinates": [ 105.7626316, 21.0471607 ] } },
+{ "type": "Feature", "properties": { "id": 8755733272, "name": "Đại học Tài nguyên Môi trường", "index_right": 85, "district": "Phường Phú Diễn" }, "geometry": { "type": "Point", "coordinates": [ 105.7615502, 21.0475342 ] } },
+{ "type": "Feature", "properties": { "id": 8829926852, "name": "9 Phạm Văn Đồng", "index_right": 85, "district": "Phường Phú Diễn" }, "geometry": { "type": "Point", "coordinates": [ 105.7805919, 21.0394619 ] } },
+{ "type": "Feature", "properties": { "id": 8831420066, "name": "Bộ Công an", "index_right": 85, "district": "Phường Phú Diễn" }, "geometry": { "type": "Point", "coordinates": [ 105.7810889, 21.047687 ] } },
+{ "type": "Feature", "properties": { "id": 8900644425, "name": "126 Phạm Văn Đồng", "index_right": 85, "district": "Phường Phú Diễn" }, "geometry": { "type": "Point", "coordinates": [ 105.7808168, 21.0437797 ] } },
+{ "type": "Feature", "properties": { "id": 8901852870, "name": "Ga Phú Diễn", "index_right": 85, "district": "Phường Phú Diễn" }, "geometry": { "type": "Point", "coordinates": [ 105.7552162, 21.0441253 ] } },
+{ "type": "Feature", "properties": { "id": 8901852871, "name": "135 Tổ 3 - Đường 32", "index_right": 85, "district": "Phường Phú Diễn" }, "geometry": { "type": "Point", "coordinates": [ 105.7504523, 21.0459923 ] } },
+{ "type": "Feature", "properties": { "id": 8934749266, "name": "301A (Đối diện 336 Tổ 8) - Đường K3 Cầu Diễn", "index_right": 85, "district": "Phường Phú Diễn" }, "geometry": { "type": "Point", "coordinates": [ 105.7712614, 21.0515883 ] } },
+{ "type": "Feature", "properties": { "id": 8934749272, "name": "59 Tổ 9 (Đối diện 48 Tổ 9) - Đường K3 Cầu Diễn", "index_right": 85, "district": "Phường Phú Diễn" }, "geometry": { "type": "Point", "coordinates": [ 105.7663172, 21.0444861 ] } },
+{ "type": "Feature", "properties": { "id": 8934749275, "name": "Giữa nhà 316-318 Tổ 8 Đường K3 Cầu Diễn", "index_right": 85, "district": "Phường Phú Diễn" }, "geometry": { "type": "Point", "coordinates": [ 105.7707237, 21.0507173 ] } },
+{ "type": "Feature", "properties": { "id": 8934749277, "name": "Giữa nhà 56-58 Tổ 9 Đường K3 Cầu Diễn", "index_right": 85, "district": "Phường Phú Diễn" }, "geometry": { "type": "Point", "coordinates": [ 105.7654337, 21.0433306 ] } },
+{ "type": "Feature", "properties": { "id": 11515658236, "name": "Ga Cầu Diễn", "index_right": 85, "district": "Phường Phú Diễn" }, "geometry": { "type": "Point", "coordinates": [ 105.7627644, 21.0414678 ] } },
+{ "type": "Feature", "properties": { "id": 11527354915, "name": "58 Trần Vỹ", "index_right": 85, "district": "Phường Phú Diễn" }, "geometry": { "type": "Point", "coordinates": [ 105.772936, 21.0403566 ] } },
+{ "type": "Feature", "properties": { "id": 11527354916, "name": "Học viện Tư pháp - Tuyến 51", "index_right": 85, "district": "Phường Phú Diễn" }, "geometry": { "type": "Point", "coordinates": [ 105.7741619, 21.0449483 ] } },
+{ "type": "Feature", "properties": { "id": 11527354917, "name": "Cạnh nhà tang lễ Cầu Giấy", "index_right": 85, "district": "Phường Phú Diễn" }, "geometry": { "type": "Point", "coordinates": [ 105.7727381, 21.0406074 ] } },
+{ "type": "Feature", "properties": { "id": 11528486379, "name": "37-39 Văn Tiến Dũng", "index_right": 85, "district": "Phường Phú Diễn" }, "geometry": { "type": "Point", "coordinates": [ 105.748851, 21.048925 ] } },
+{ "type": "Feature", "properties": { "id": 11528486387, "name": "102 Văn Tiến Dũng", "index_right": 85, "district": "Phường Phú Diễn" }, "geometry": { "type": "Point", "coordinates": [ 105.7492242, 21.0492053 ] } },
+{ "type": "Feature", "properties": { "id": 12549076372, "name": "Giữa nhà 139 và 141 Phú Diễn", "index_right": 85, "district": "Phường Phú Diễn" }, "geometry": { "type": "Point", "coordinates": [ 105.7628891, 21.0463858 ] } }
+]
+}

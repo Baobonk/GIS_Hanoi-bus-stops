@@ -1,0 +1,25 @@
+{
+"type": "FeatureCollection",
+"name": "Phường_Vĩnh_Hưng",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 8741080077, "name": "Ngõ 595 - Đối diện 602 Lĩnh Nam", "index_right": 54, "district": "Phường Vĩnh Hưng" }, "geometry": { "type": "Point", "coordinates": [ 105.8867977, 20.9800258 ] } },
+{ "type": "Feature", "properties": { "id": 8741080078, "name": "Chợ Lòng Thuyền - 471 Lĩnh Nam", "index_right": 54, "district": "Phường Vĩnh Hưng" }, "geometry": { "type": "Point", "coordinates": [ 105.8817935, 20.9811812 ] } },
+{ "type": "Feature", "properties": { "id": 8741080079, "name": "Doanh trại Quân đội nhân dân - 393 Lĩnh Nam", "index_right": 54, "district": "Phường Vĩnh Hưng" }, "geometry": { "type": "Point", "coordinates": [ 105.8774601, 20.9829161 ] } },
+{ "type": "Feature", "properties": { "id": 8846358766, "name": "Đối diện chùa Phúc Khánh", "index_right": 54, "district": "Phường Vĩnh Hưng" }, "geometry": { "type": "Point", "coordinates": [ 105.877708, 20.9885966 ] } },
+{ "type": "Feature", "properties": { "id": 8846358767, "name": "298-300 Vĩnh Hưng", "index_right": 54, "district": "Phường Vĩnh Hưng" }, "geometry": { "type": "Point", "coordinates": [ 105.8795166, 20.991974 ] } },
+{ "type": "Feature", "properties": { "id": 8846358768, "name": "Đối diện số 367 Vĩnh Hưng", "index_right": 54, "district": "Phường Vĩnh Hưng" }, "geometry": { "type": "Point", "coordinates": [ 105.879984, 20.9964497 ] } },
+{ "type": "Feature", "properties": { "id": 8846358774, "name": "Qua đường dẫn lên cầu Vĩnh Tuy", "index_right": 54, "district": "Phường Vĩnh Hưng" }, "geometry": { "type": "Point", "coordinates": [ 105.8752623, 21.0020808 ] } },
+{ "type": "Feature", "properties": { "id": 8846358775, "name": "510 Nguyễn Khoái - Đại học Kinh doanh và Công nghệ Hà Nội", "index_right": 54, "district": "Phường Vĩnh Hưng" }, "geometry": { "type": "Point", "coordinates": [ 105.8777496, 21.0014078 ] } },
+{ "type": "Feature", "properties": { "id": 8846358776, "name": "Ngõ 321 Vĩnh Hưng", "index_right": 54, "district": "Phường Vĩnh Hưng" }, "geometry": { "type": "Point", "coordinates": [ 105.8798541, 20.9965325 ] } },
+{ "type": "Feature", "properties": { "id": 8846358777, "name": "303 Vĩnh Hưng", "index_right": 54, "district": "Phường Vĩnh Hưng" }, "geometry": { "type": "Point", "coordinates": [ 105.8792308, 20.9917252 ] } },
+{ "type": "Feature", "properties": { "id": 8846358778, "name": "193 Vĩnh Hưng", "index_right": 54, "district": "Phường Vĩnh Hưng" }, "geometry": { "type": "Point", "coordinates": [ 105.8774982, 20.9884098 ] } },
+{ "type": "Feature", "properties": { "id": 10118488780, "name": "27 Vĩnh Tuy", "index_right": 54, "district": "Phường Vĩnh Hưng" }, "geometry": { "type": "Point", "coordinates": [ 105.873161, 21.0010543 ] } },
+{ "type": "Feature", "properties": { "id": 11527164027, "name": "Đối diện 343 Nguyễn Khoái", "index_right": 54, "district": "Phường Vĩnh Hưng" }, "geometry": { "type": "Point", "coordinates": [ 105.8802744, 21.00067 ] } },
+{ "type": "Feature", "properties": { "id": 11527164028, "name": "838 Nguyễn Khoái", "index_right": 54, "district": "Phường Vĩnh Hưng" }, "geometry": { "type": "Point", "coordinates": [ 105.8857246, 20.9998848 ] } },
+{ "type": "Feature", "properties": { "id": 11527164029, "name": "1032 Nguyễn Khoái", "index_right": 54, "district": "Phường Vĩnh Hưng" }, "geometry": { "type": "Point", "coordinates": [ 105.8900175, 20.9974978 ] } },
+{ "type": "Feature", "properties": { "id": 11527164030, "name": "Trường Tiểu học Thanh Trì", "index_right": 54, "district": "Phường Vĩnh Hưng" }, "geometry": { "type": "Point", "coordinates": [ 105.8923973, 20.9942845 ] } },
+{ "type": "Feature", "properties": { "id": 11527164031, "name": "Qua lối vào Trường TH Tư Thục KT-DL Hoa Sữa 50m", "index_right": 54, "district": "Phường Vĩnh Hưng" }, "geometry": { "type": "Point", "coordinates": [ 105.8938144, 20.989379 ] } },
+{ "type": "Feature", "properties": { "id": 12077799918, "name": "183 Lĩnh Nam", "index_right": 54, "district": "Phường Vĩnh Hưng" }, "geometry": { "type": "Point", "coordinates": [ 105.8709003, 20.9854179 ] } }
+]
+}

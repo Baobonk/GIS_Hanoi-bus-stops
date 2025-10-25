@@ -1,0 +1,28 @@
+{
+"type": "FeatureCollection",
+"name": "Phường_Ngọc_Hà",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 738813746, "name": "Viện Khoa học xã hội Việt Nam - số 1 Liễu Giai", "index_right": 48, "district": "Phường Ngọc Hà" }, "geometry": { "type": "Point", "coordinates": [ 105.8150357, 21.0364222 ] } },
+{ "type": "Feature", "properties": { "id": 738814345, "name": "73 Văn Cao - Đối diện Cung thể thao Quần Ngựa", "index_right": 48, "district": "Phường Ngọc Hà" }, "geometry": { "type": "Point", "coordinates": [ 105.8160289, 21.0397421 ] } },
+{ "type": "Feature", "properties": { "id": 738815421, "name": "22 Liễu Giai", "index_right": 48, "district": "Phường Ngọc Hà" }, "geometry": { "type": "Point", "coordinates": [ 105.8143773, 21.0358789 ] } },
+{ "type": "Feature", "properties": { "id": 738815796, "name": "Số nhà 2/2C khu Ngoại Giao Đoàn, phố Kim Mã đường dưới", "index_right": 48, "district": "Phường Ngọc Hà" }, "geometry": { "type": "Point", "coordinates": [ 105.8166626, 21.0308599 ] } },
+{ "type": "Feature", "properties": { "id": 4476131489, "name": "285 Đội Cấn - Công ty Dệt Kim Hà Nội", "index_right": 48, "district": "Phường Ngọc Hà" }, "geometry": { "type": "Point", "coordinates": [ 105.8188672, 21.0354491 ] } },
+{ "type": "Feature", "properties": { "id": 5118690559, "name": "Đối diện 298 đường Bưởi dưới", "index_right": 48, "district": "Phường Ngọc Hà" }, "geometry": { "type": "Point", "coordinates": [ 105.8065888, 21.0391782 ] } },
+{ "type": "Feature", "properties": { "id": 8741294705, "name": "195B Đội Cấn", "index_right": 48, "district": "Phường Ngọc Hà" }, "geometry": { "type": "Point", "coordinates": [ 105.8233939, 21.0351073 ] } },
+{ "type": "Feature", "properties": { "id": 8741294710, "name": "Gần ngõ 378 đường Bưởi tránh (bên giao Đội Cấn)", "index_right": 48, "district": "Phường Ngọc Hà" }, "geometry": { "type": "Point", "coordinates": [ 105.8069464, 21.040852 ] } },
+{ "type": "Feature", "properties": { "id": 8741294711, "name": "Số 610 Đường Bưởi (gần vòng xuyến Hoàng Quốc Việt)", "index_right": 48, "district": "Phường Ngọc Hà" }, "geometry": { "type": "Point", "coordinates": [ 105.8063105, 21.0455183 ] } },
+{ "type": "Feature", "properties": { "id": 8741301522, "name": "Đại sứ quán Nhật Bản - 27 Liễu Giai", "index_right": 48, "district": "Phường Ngọc Hà" }, "geometry": { "type": "Point", "coordinates": [ 105.8138144, 21.0324537 ] } },
+{ "type": "Feature", "properties": { "id": 8741301524, "name": "Trường THCS Ba Đình - 145 Hoàng Hoa Thám", "index_right": 48, "district": "Phường Ngọc Hà" }, "geometry": { "type": "Point", "coordinates": [ 105.8246912, 21.04071 ] } },
+{ "type": "Feature", "properties": { "id": 8807115916, "name": "240 Kim Mã", "index_right": 48, "district": "Phường Ngọc Hà" }, "geometry": { "type": "Point", "coordinates": [ 105.8240552, 21.0317545 ] } },
+{ "type": "Feature", "properties": { "id": 8900275038, "name": "Ngã ba Kim Mã - Vạn Bảo", "index_right": 48, "district": "Phường Ngọc Hà" }, "geometry": { "type": "Point", "coordinates": [ 105.8178777, 21.0308178 ] } },
+{ "type": "Feature", "properties": { "id": 8920049631, "name": "741-743 Hoàng Hoa Thám", "index_right": 48, "district": "Phường Ngọc Hà" }, "geometry": { "type": "Point", "coordinates": [ 105.8063949, 21.0474967 ] } },
+{ "type": "Feature", "properties": { "id": 8920049632, "name": "Trường Tiểu học Hoàng Hoa Thám", "index_right": 48, "district": "Phường Ngọc Hà" }, "geometry": { "type": "Point", "coordinates": [ 105.8106797, 21.0461589 ] } },
+{ "type": "Feature", "properties": { "id": 8920049633, "name": "Bệnh viện Phổi Trung ương", "index_right": 48, "district": "Phường Ngọc Hà" }, "geometry": { "type": "Point", "coordinates": [ 105.8141669, 21.0432533 ] } },
+{ "type": "Feature", "properties": { "id": 9325944973, "name": "34 Văn Cao", "index_right": 48, "district": "Phường Ngọc Hà" }, "geometry": { "type": "Point", "coordinates": [ 105.8153893, 21.0390429 ] } },
+{ "type": "Feature", "properties": { "id": 11553653863, "name": "UBND Phường Cống Vị", "index_right": 48, "district": "Phường Ngọc Hà" }, "geometry": { "type": "Point", "coordinates": [ 105.8094938, 21.0377308 ] } },
+{ "type": "Feature", "properties": { "id": 11553653864, "name": "Chợ Cống Vị", "index_right": 48, "district": "Phường Ngọc Hà" }, "geometry": { "type": "Point", "coordinates": [ 105.8141489, 21.0375131 ] } },
+{ "type": "Feature", "properties": { "id": 11553653865, "name": "Đối diện Chợ Cống Vị", "index_right": 48, "district": "Phường Ngọc Hà" }, "geometry": { "type": "Point", "coordinates": [ 105.8135076, 21.0379661 ] } },
+{ "type": "Feature", "properties": { "id": 11553653866, "name": "Đối diện UBND Phường Cống Vị", "index_right": 48, "district": "Phường Ngọc Hà" }, "geometry": { "type": "Point", "coordinates": [ 105.8085171, 21.0377254 ] } }
+]
+}

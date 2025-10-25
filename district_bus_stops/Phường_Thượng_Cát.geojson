@@ -1,0 +1,30 @@
+{
+"type": "FeatureCollection",
+"name": "Phường_Thượng_Cát",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 9000718241, "name": "Qua đối diện 100m ngã 3 Kỳ Vũ - Tây Tựu (qua lối vào trường CĐ Công nghệ HN)", "index_right": 87, "district": "Phường Thượng Cát" }, "geometry": { "type": "Point", "coordinates": [ 105.7367422, 21.0850488 ] } },
+{ "type": "Feature", "properties": { "id": 9000718242, "name": "Trước 50m ngã 3 Kỳ Vũ - Tây Tựu (trước lối vào trường CĐ Công nghệ HN)", "index_right": 87, "district": "Phường Thượng Cát" }, "geometry": { "type": "Point", "coordinates": [ 105.7369913, 21.0853816 ] } },
+{ "type": "Feature", "properties": { "id": 9000718243, "name": "Đối diện cổng làng Thượng Cát 1 - đê Thượng Cát", "index_right": 87, "district": "Phường Thượng Cát" }, "geometry": { "type": "Point", "coordinates": [ 105.7381994, 21.0890856 ] } },
+{ "type": "Feature", "properties": { "id": 9000718244, "name": "Cổng làng Thượng Cát 1 - đê Thượng Cát", "index_right": 87, "district": "Phường Thượng Cát" }, "geometry": { "type": "Point", "coordinates": [ 105.7383726, 21.0885328 ] } },
+{ "type": "Feature", "properties": { "id": 9000718245, "name": "Đối diện cổng làng Thượng Cát 2 - đê Thượng Cát", "index_right": 87, "district": "Phường Thượng Cát" }, "geometry": { "type": "Point", "coordinates": [ 105.7330838, 21.0963341 ] } },
+{ "type": "Feature", "properties": { "id": 9000718246, "name": "Cổng làng Thượng Cát 2 - đê Thượng Cát", "index_right": 87, "district": "Phường Thượng Cát" }, "geometry": { "type": "Point", "coordinates": [ 105.7340922, 21.095075 ] } },
+{ "type": "Feature", "properties": { "id": 9000718247, "name": "Thôn Trung - đê Thượng Cát", "index_right": 87, "district": "Phường Thượng Cát" }, "geometry": { "type": "Point", "coordinates": [ 105.7316993, 21.0998855 ] } },
+{ "type": "Feature", "properties": { "id": 9000718248, "name": "Đối diện Thôn Trung - đê Thượng Cát", "index_right": 87, "district": "Phường Thượng Cát" }, "geometry": { "type": "Point", "coordinates": [ 105.731317, 21.1001097 ] } },
+{ "type": "Feature", "properties": { "id": 11125199067, "name": "Qua ngã 3 Kỳ Vũ - Tây Tựu 100m", "index_right": 87, "district": "Phường Thượng Cát" }, "geometry": { "type": "Point", "coordinates": [ 105.7358327, 21.0854849 ] } },
+{ "type": "Feature", "properties": { "id": 11125199068, "name": "Uỷ ban nhân dân phường Thượng Cát", "index_right": 87, "district": "Phường Thượng Cát" }, "geometry": { "type": "Point", "coordinates": [ 105.7335429, 21.0892785 ] } },
+{ "type": "Feature", "properties": { "id": 11126935381, "name": "Đối diện UBND phường Thượng Cát", "index_right": 87, "district": "Phường Thượng Cát" }, "geometry": { "type": "Point", "coordinates": [ 105.7334025, 21.0893518 ] } },
+{ "type": "Feature", "properties": { "id": 11126935382, "name": "Gần ngã 3 Kỳ Vũ - Tây Tựu 100m", "index_right": 87, "district": "Phường Thượng Cát" }, "geometry": { "type": "Point", "coordinates": [ 105.7357843, 21.0854202 ] } },
+{ "type": "Feature", "properties": { "id": 11515748462, "name": "Đại học Mỏ - Tuyến 09A", "index_right": 87, "district": "Phường Thượng Cát" }, "geometry": { "type": "Point", "coordinates": [ 105.7708795, 21.0716542 ] } },
+{ "type": "Feature", "properties": { "id": 11528486371, "name": "Trước nhà số 27 Tân Phong", "index_right": 87, "district": "Phường Thượng Cát" }, "geometry": { "type": "Point", "coordinates": [ 105.7703806, 21.0848491 ] } },
+{ "type": "Feature", "properties": { "id": 11528486372, "name": "Đối diện Ban chỉ huy phòng chống bão lụt - Liên Mạc", "index_right": 87, "district": "Phường Thượng Cát" }, "geometry": { "type": "Point", "coordinates": [ 105.7665189, 21.0908316 ] } },
+{ "type": "Feature", "properties": { "id": 11528486373, "name": "Qua 100m lối vào Trung tâm sát hạch lái xe Ngọc Hà", "index_right": 87, "district": "Phường Thượng Cát" }, "geometry": { "type": "Point", "coordinates": [ 105.7585907, 21.0887165 ] } },
+{ "type": "Feature", "properties": { "id": 11528486374, "name": "Đối diện Nhà văn hóa Thôn Yên Nội", "index_right": 87, "district": "Phường Thượng Cát" }, "geometry": { "type": "Point", "coordinates": [ 105.7485306, 21.0862839 ] } },
+{ "type": "Feature", "properties": { "id": 11528486375, "name": "Gần Doanh trại QĐND (gần đối diện UBND phường Liên Mạc)", "index_right": 87, "district": "Phường Thượng Cát" }, "geometry": { "type": "Point", "coordinates": [ 105.7490573, 21.0831477 ] } },
+{ "type": "Feature", "properties": { "id": 11528486391, "name": "Qua UBND phường Liên Mạc", "index_right": 87, "district": "Phường Thượng Cát" }, "geometry": { "type": "Point", "coordinates": [ 105.7494722, 21.0835533 ] } },
+{ "type": "Feature", "properties": { "id": 11528486392, "name": "Không tên", "index_right": 87, "district": "Phường Thượng Cát" }, "geometry": { "type": "Point", "coordinates": [ 105.7495472, 21.0860845 ] } },
+{ "type": "Feature", "properties": { "id": 11528486393, "name": "Trước 70m đối diện lối vào Trung tâm sát hạch lái xe Ngọc Hà", "index_right": 87, "district": "Phường Thượng Cát" }, "geometry": { "type": "Point", "coordinates": [ 105.7590984, 21.0887224 ] } },
+{ "type": "Feature", "properties": { "id": 11528486394, "name": "Trước Ban chỉ huy phòng chống bão lụt 70m", "index_right": 87, "district": "Phường Thượng Cát" }, "geometry": { "type": "Point", "coordinates": [ 105.76668, 21.0907402 ] } },
+{ "type": "Feature", "properties": { "id": 11528486395, "name": "84 Tân Phong", "index_right": 87, "district": "Phường Thượng Cát" }, "geometry": { "type": "Point", "coordinates": [ 105.7703019, 21.0839233 ] } }
+]
+}

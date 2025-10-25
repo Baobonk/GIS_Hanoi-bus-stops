@@ -1,0 +1,28 @@
+{
+"type": "FeatureCollection",
+"name": "Phường_Ô_Chợ_Dừa",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 738813226, "name": "426 Đê La Thành", "index_right": 44, "district": "Phường Ô Chợ Dừa" }, "geometry": { "type": "Point", "coordinates": [ 105.8222255, 21.022803 ] } },
+{ "type": "Feature", "properties": { "id": 738813355, "name": "Hồ Hoàng Cầu", "index_right": 44, "district": "Phường Ô Chợ Dừa" }, "geometry": { "type": "Point", "coordinates": [ 105.8239372, 21.0176818 ] } },
+{ "type": "Feature", "properties": { "id": 738813514, "name": "Rạp chiếu phim Quốc Gia - Thái Hà", "index_right": 44, "district": "Phường Ô Chợ Dừa" }, "geometry": { "type": "Point", "coordinates": [ 105.8156289, 21.0161791 ] } },
+{ "type": "Feature", "properties": { "id": 738814445, "name": "276 Tôn Đức Thắng", "index_right": 44, "district": "Phường Ô Chợ Dừa" }, "geometry": { "type": "Point", "coordinates": [ 105.8304443, 21.0199878 ] } },
+{ "type": "Feature", "properties": { "id": 738814544, "name": "23-25 Láng Hạ", "index_right": 44, "district": "Phường Ô Chợ Dừa" }, "geometry": { "type": "Point", "coordinates": [ 105.8181999, 21.020865 ] } },
+{ "type": "Feature", "properties": { "id": 738814565, "name": "177 Giảng Võ", "index_right": 44, "district": "Phường Ô Chợ Dừa" }, "geometry": { "type": "Point", "coordinates": [ 105.8255885, 21.0281259 ] } },
+{ "type": "Feature", "properties": { "id": 738815121, "name": "Nhà sách Trí Tuệ - 187G Giảng Võ", "index_right": 44, "district": "Phường Ô Chợ Dừa" }, "geometry": { "type": "Point", "coordinates": [ 105.8227757, 21.0256743 ] } },
+{ "type": "Feature", "properties": { "id": 738815693, "name": "145 Nguyễn Thái Học", "index_right": 44, "district": "Phường Ô Chợ Dừa" }, "geometry": { "type": "Point", "coordinates": [ 105.8337669, 21.031054 ] } },
+{ "type": "Feature", "properties": { "id": 8751624829, "name": "Đối diện 116 Hào Nam", "index_right": 44, "district": "Phường Ô Chợ Dừa" }, "geometry": { "type": "Point", "coordinates": [ 105.8275925, 21.0269675 ] } },
+{ "type": "Feature", "properties": { "id": 8751624830, "name": "Học viện Âm nhạc Quốc gia Việt Nam", "index_right": 44, "district": "Phường Ô Chợ Dừa" }, "geometry": { "type": "Point", "coordinates": [ 105.8264385, 21.0227579 ] } },
+{ "type": "Feature", "properties": { "id": 8751624855, "name": "94 Ô Chợ Dừa", "index_right": 44, "district": "Phường Ô Chợ Dừa" }, "geometry": { "type": "Point", "coordinates": [ 105.8269186, 21.0202979 ] } },
+{ "type": "Feature", "properties": { "id": 8751624856, "name": "Đối diện Học viện Âm nhạc Quốc gia Việt Nam", "index_right": 44, "district": "Phường Ô Chợ Dừa" }, "geometry": { "type": "Point", "coordinates": [ 105.8268442, 21.0229441 ] } },
+{ "type": "Feature", "properties": { "id": 8751624857, "name": "188 Hào Nam", "index_right": 44, "district": "Phường Ô Chợ Dừa" }, "geometry": { "type": "Point", "coordinates": [ 105.827694, 21.0274915 ] } },
+{ "type": "Feature", "properties": { "id": 8757875253, "name": "Ngõ 71 Láng Hạ", "index_right": 44, "district": "Phường Ô Chợ Dừa" }, "geometry": { "type": "Point", "coordinates": [ 105.816402, 21.0184803 ] } },
+{ "type": "Feature", "properties": { "id": 8757875261, "name": "339-341 Đê La Thành", "index_right": 44, "district": "Phường Ô Chợ Dừa" }, "geometry": { "type": "Point", "coordinates": [ 105.8216595, 21.022905 ] } },
+{ "type": "Feature", "properties": { "id": 8757875262, "name": "Qua 50m ngã 3 Đặng Tiến Đông - Hoàng Cầu", "index_right": 44, "district": "Phường Ô Chợ Dừa" }, "geometry": { "type": "Point", "coordinates": [ 105.8197064, 21.0151251 ] } },
+{ "type": "Feature", "properties": { "id": 8837631357, "name": "92-94 Tôn Đức Thắng", "index_right": 44, "district": "Phường Ô Chợ Dừa" }, "geometry": { "type": "Point", "coordinates": [ 105.8338641, 21.0273433 ] } },
+{ "type": "Feature", "properties": { "id": 8837631358, "name": "160 Tôn Đức Thắng", "index_right": 44, "district": "Phường Ô Chợ Dừa" }, "geometry": { "type": "Point", "coordinates": [ 105.8327363, 21.0248586 ] } },
+{ "type": "Feature", "properties": { "id": 8936462893, "name": "Điểm đỗ xe buýt Hào Nam", "index_right": 44, "district": "Phường Ô Chợ Dừa" }, "geometry": { "type": "Point", "coordinates": [ 105.8274904, 21.0284697 ] } },
+{ "type": "Feature", "properties": { "id": 11519318248, "name": "95 Giảng Võ", "index_right": 44, "district": "Phường Ô Chợ Dừa" }, "geometry": { "type": "Point", "coordinates": [ 105.8268007, 21.029059 ] } },
+{ "type": "Feature", "properties": { "id": 11524039234, "name": "Chùa An Quốc", "index_right": 44, "district": "Phường Ô Chợ Dừa" }, "geometry": { "type": "Point", "coordinates": [ 105.8326382, 21.0284826 ] } }
+]
+}

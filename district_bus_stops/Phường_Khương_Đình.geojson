@@ -1,0 +1,31 @@
+{
+"type": "FeatureCollection",
+"name": "Phường_Khương_Đình",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 444394790, "name": "Trước số 277 Nguyễn Trãi - Bách hóa giày Thượng Đình", "index_right": 59, "district": "Phường Khương Đình" }, "geometry": { "type": "Point", "coordinates": [ 105.8060899, 20.9931993 ] } },
+{ "type": "Feature", "properties": { "id": 738813332, "name": "Đối diện 272 Khương Đình", "index_right": 59, "district": "Phường Khương Đình" }, "geometry": { "type": "Point", "coordinates": [ 105.8134495, 20.9913809 ] } },
+{ "type": "Feature", "properties": { "id": 738813591, "name": "Đối diện 32 Kim Giang", "index_right": 59, "district": "Phường Khương Đình" }, "geometry": { "type": "Point", "coordinates": [ 105.8139223, 20.9855116 ] } },
+{ "type": "Feature", "properties": { "id": 738814410, "name": "Công ty thuốc lá Thăng Long - 235 Nguyễn Trãi", "index_right": 59, "district": "Phường Khương Đình" }, "geometry": { "type": "Point", "coordinates": [ 105.8091649, 20.9953309 ] } },
+{ "type": "Feature", "properties": { "id": 738814467, "name": "42 Kim Giang", "index_right": 59, "district": "Phường Khương Đình" }, "geometry": { "type": "Point", "coordinates": [ 105.814356, 20.9845822 ] } },
+{ "type": "Feature", "properties": { "id": 738815707, "name": "Sân vận động Thượng Đình -129 Nguyễn Trãi", "index_right": 59, "district": "Phường Khương Đình" }, "geometry": { "type": "Point", "coordinates": [ 105.8172164, 21.0006887 ] } },
+{ "type": "Feature", "properties": { "id": 7056077230, "name": "Số 65 Nguyễn Trãi", "index_right": 59, "district": "Phường Khương Đình" }, "geometry": { "type": "Point", "coordinates": [ 105.8187302, 21.0017157 ] } },
+{ "type": "Feature", "properties": { "id": 8236289508, "name": "Đối diện 134 Khương Đình", "index_right": 59, "district": "Phường Khương Đình" }, "geometry": { "type": "Point", "coordinates": [ 105.8144435, 20.9947516 ] } },
+{ "type": "Feature", "properties": { "id": 8755733285, "name": "Đối diện 81-83 Khương Đình", "index_right": 59, "district": "Phường Khương Đình" }, "geometry": { "type": "Point", "coordinates": [ 105.8137185, 20.996193 ] } },
+{ "type": "Feature", "properties": { "id": 8755733286, "name": "254-256 Khương Đình", "index_right": 59, "district": "Phường Khương Đình" }, "geometry": { "type": "Point", "coordinates": [ 105.8134424, 20.9919176 ] } },
+{ "type": "Feature", "properties": { "id": 8833070418, "name": "581 Vũ Tông Phan", "index_right": 59, "district": "Phường Khương Đình" }, "geometry": { "type": "Point", "coordinates": [ 105.815474, 20.9839882 ] } },
+{ "type": "Feature", "properties": { "id": 8833070419, "name": "573 Vũ Tông Phan", "index_right": 59, "district": "Phường Khương Đình" }, "geometry": { "type": "Point", "coordinates": [ 105.8153879, 20.9842235 ] } },
+{ "type": "Feature", "properties": { "id": 8833070420, "name": "381 Vũ Tông Phan", "index_right": 59, "district": "Phường Khương Đình" }, "geometry": { "type": "Point", "coordinates": [ 105.8135732, 20.9896234 ] } },
+{ "type": "Feature", "properties": { "id": 8833070421, "name": "375 Vũ Tông Phan", "index_right": 59, "district": "Phường Khương Đình" }, "geometry": { "type": "Point", "coordinates": [ 105.8136472, 20.9897746 ] } },
+{ "type": "Feature", "properties": { "id": 8833070422, "name": "291 Vũ Tông Phan", "index_right": 59, "district": "Phường Khương Đình" }, "geometry": { "type": "Point", "coordinates": [ 105.8146317, 20.9936618 ] } },
+{ "type": "Feature", "properties": { "id": 8833070423, "name": "283 Vũ Tông Phan", "index_right": 59, "district": "Phường Khương Đình" }, "geometry": { "type": "Point", "coordinates": [ 105.8147677, 20.9939025 ] } },
+{ "type": "Feature", "properties": { "id": 8833070424, "name": "41 Vũ Tông Phan", "index_right": 59, "district": "Phường Khương Đình" }, "geometry": { "type": "Point", "coordinates": [ 105.8178109, 20.9987767 ] } },
+{ "type": "Feature", "properties": { "id": 8833070425, "name": "71 Vũ Tông Phan", "index_right": 59, "district": "Phường Khương Đình" }, "geometry": { "type": "Point", "coordinates": [ 105.8179927, 20.9988856 ] } },
+{ "type": "Feature", "properties": { "id": 8845983482, "name": "Trước ngã 3 Nguyễn Xiển - Hoàng Đạo Thành", "index_right": 59, "district": "Phường Khương Đình" }, "geometry": { "type": "Point", "coordinates": [ 105.8109626, 20.981462 ] } },
+{ "type": "Feature", "properties": { "id": 8845983483, "name": "Hầm đường bộ số 4 - Nguyễn Xiển", "index_right": 59, "district": "Phường Khương Đình" }, "geometry": { "type": "Point", "coordinates": [ 105.8081573, 20.9853092 ] } },
+{ "type": "Feature", "properties": { "id": 8845983484, "name": "Viện Công nghệ Thực phẩm Trung ương", "index_right": 59, "district": "Phường Khương Đình" }, "geometry": { "type": "Point", "coordinates": [ 105.8047431, 20.9898822 ] } },
+{ "type": "Feature", "properties": { "id": 8939177165, "name": "Ga Thượng Đình - Nguyễn Trãi", "index_right": 59, "district": "Phường Khương Đình" }, "geometry": { "type": "Point", "coordinates": [ 105.8127417, 20.9977768 ] } },
+{ "type": "Feature", "properties": { "id": 9342635859, "name": "Trước số nhà 84 Vương Thừa Vũ", "index_right": 59, "district": "Phường Khương Đình" }, "geometry": { "type": "Point", "coordinates": [ 105.8217741, 20.9991459 ] } },
+{ "type": "Feature", "properties": { "id": 10028987061, "name": "29T Nguyễn Trãi - Cầu vượt đi bộ Royal City", "index_right": 59, "district": "Phường Khương Đình" }, "geometry": { "type": "Point", "coordinates": [ 105.815295, 20.9994367 ] } }
+]
+}

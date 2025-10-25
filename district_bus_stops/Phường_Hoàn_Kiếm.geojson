@@ -1,0 +1,32 @@
+{
+"type": "FeatureCollection",
+"name": "Phường_Hoàn_Kiếm",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 738813615, "name": "Số 3 Hàng Muối", "index_right": 37, "district": "Phường Hoàn Kiếm" }, "geometry": { "type": "Point", "coordinates": [ 105.8547093, 21.0343543 ] } },
+{ "type": "Feature", "properties": { "id": 738813955, "name": "80 Trần Nhật Duật", "index_right": 37, "district": "Phường Hoàn Kiếm" }, "geometry": { "type": "Point", "coordinates": [ 105.8527141, 21.0375659 ] } },
+{ "type": "Feature", "properties": { "id": 738814318, "name": "3A Phan Đình Phùng", "index_right": 37, "district": "Phường Hoàn Kiếm" }, "geometry": { "type": "Point", "coordinates": [ 105.8457666, 21.0398839 ] } },
+{ "type": "Feature", "properties": { "id": 738814587, "name": "23 Hàng Tre", "index_right": 37, "district": "Phường Hoàn Kiếm" }, "geometry": { "type": "Point", "coordinates": [ 105.8556974, 21.0320235 ] } },
+{ "type": "Feature", "properties": { "id": 738814670, "name": "115 Phùng Hưng", "index_right": 37, "district": "Phường Hoàn Kiếm" }, "geometry": { "type": "Point", "coordinates": [ 105.8458566, 21.0351886 ] } },
+{ "type": "Feature", "properties": { "id": 738814872, "name": "36 Lý Thái Tổ - Cung thiếu nhi Hà Nội", "index_right": 37, "district": "Phường Hoàn Kiếm" }, "geometry": { "type": "Point", "coordinates": [ 105.8556312, 21.0281918 ] } },
+{ "type": "Feature", "properties": { "id": 738815373, "name": "Ngã ba Lê Thái Tổ", "index_right": 37, "district": "Phường Hoàn Kiếm" }, "geometry": { "type": "Point", "coordinates": [ 105.8512802, 21.0283461 ] } },
+{ "type": "Feature", "properties": { "id": 4017540901, "name": "28 Đường Thành", "index_right": 37, "district": "Phường Hoàn Kiếm" }, "geometry": { "type": "Point", "coordinates": [ 105.8470913, 21.0310783 ] } },
+{ "type": "Feature", "properties": { "id": 4292651591, "name": "6-8 Tràng Thi (Qua ngã 4 Tràng Thi - Lý Quốc Sư)", "index_right": 37, "district": "Phường Hoàn Kiếm" }, "geometry": { "type": "Point", "coordinates": [ 105.8496844, 21.0265449 ] } },
+{ "type": "Feature", "properties": { "id": 4292785590, "name": "Bệnh viện Việt Đức - 40 Tràng Thi", "index_right": 37, "district": "Phường Hoàn Kiếm" }, "geometry": { "type": "Point", "coordinates": [ 105.8466738, 21.0273904 ] } },
+{ "type": "Feature", "properties": { "id": 4448611389, "name": "Bưu điện Thành phố Hà Nội - 75B Đinh Tiên Hoàng", "index_right": 37, "district": "Phường Hoàn Kiếm" }, "geometry": { "type": "Point", "coordinates": [ 105.8535908, 21.0270012 ] } },
+{ "type": "Feature", "properties": { "id": 4794363122, "name": "50 Hàng Cót", "index_right": 37, "district": "Phường Hoàn Kiếm" }, "geometry": { "type": "Point", "coordinates": [ 105.847089, 21.0372966 ] } },
+{ "type": "Feature", "properties": { "id": 7132790440, "name": "54 Nguyễn Hữu Huân", "index_right": 37, "district": "Phường Hoàn Kiếm" }, "geometry": { "type": "Point", "coordinates": [ 105.8544073, 21.0333135 ] } },
+{ "type": "Feature", "properties": { "id": 8259365871, "name": "51 Lý Thái Tổ - Ngân hàng Nhà nước Việt Nam", "index_right": 37, "district": "Phường Hoàn Kiếm" }, "geometry": { "type": "Point", "coordinates": [ 105.8562766, 21.0267045 ] } },
+{ "type": "Feature", "properties": { "id": 8757875254, "name": "Đối diện 16 Phùng Hưng (đường trong)", "index_right": 37, "district": "Phường Hoàn Kiếm" }, "geometry": { "type": "Point", "coordinates": [ 105.8465042, 21.0384259 ] } },
+{ "type": "Feature", "properties": { "id": 8772715681, "name": "Vườn hoa Trần Quang Khải (Đối diện BQL Xây dựng công trình Công ích)", "index_right": 37, "district": "Phường Hoàn Kiếm" }, "geometry": { "type": "Point", "coordinates": [ 105.859646, 21.0252806 ] } },
+{ "type": "Feature", "properties": { "id": 8822946813, "name": "22C Hàng Lược", "index_right": 37, "district": "Phường Hoàn Kiếm" }, "geometry": { "type": "Point", "coordinates": [ 105.8482215, 21.037281 ] } },
+{ "type": "Feature", "properties": { "id": 8822946814, "name": "56 Hàng Cân", "index_right": 37, "district": "Phường Hoàn Kiếm" }, "geometry": { "type": "Point", "coordinates": [ 105.8498264, 21.0341142 ] } },
+{ "type": "Feature", "properties": { "id": 8835043628, "name": "162 Trần Quang Khải - Viện Quy hoạch Thủy Lợi", "index_right": 37, "district": "Phường Hoàn Kiếm" }, "geometry": { "type": "Point", "coordinates": [ 105.8561851, 21.0319448 ] } },
+{ "type": "Feature", "properties": { "id": 8836623314, "name": "Bệnh viện Việt Đức - Đối diện số 10 Quán Sứ", "index_right": 37, "district": "Phường Hoàn Kiếm" }, "geometry": { "type": "Point", "coordinates": [ 105.8465351, 21.0294659 ] } },
+{ "type": "Feature", "properties": { "id": 11523863236, "name": "1A Tràng Tiền", "index_right": 37, "district": "Phường Hoàn Kiếm" }, "geometry": { "type": "Point", "coordinates": [ 105.8586877, 21.0248697 ] } },
+{ "type": "Feature", "properties": { "id": 11523863237, "name": "30-32 Tràng Tiền", "index_right": 37, "district": "Phường Hoàn Kiếm" }, "geometry": { "type": "Point", "coordinates": [ 105.8554854, 21.0248954 ] } },
+{ "type": "Feature", "properties": { "id": 12717509082, "name": "167 Phùng Hưng", "index_right": 37, "district": "Phường Hoàn Kiếm" }, "geometry": { "type": "Point", "coordinates": [ 105.8449456, 21.0306433 ] } },
+{ "type": "Feature", "properties": { "id": 12717509083, "name": "4 Lý Nam Đế", "index_right": 37, "district": "Phường Hoàn Kiếm" }, "geometry": { "type": "Point", "coordinates": [ 105.8457962, 21.0392776 ] } },
+{ "type": "Feature", "properties": { "id": 13076788486, "name": "Hồ Hoàn Kiếm (đối diện 15 Hàng Khay)", "index_right": 37, "district": "Phường Hoàn Kiếm" }, "geometry": { "type": "Point", "coordinates": [ 105.8523018, 21.025802 ] } }
+]
+}

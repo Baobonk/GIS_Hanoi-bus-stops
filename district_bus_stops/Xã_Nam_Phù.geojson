@@ -1,0 +1,28 @@
+{
+"type": "FeatureCollection",
+"name": "Xã_Nam_Phù",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 8929843512, "name": "Đối diện làng Tương Chúc - Ngũ Hiệp", "index_right": 123, "district": "Xã Nam Phù" }, "geometry": { "type": "Point", "coordinates": [ 105.8644272, 20.9199571 ] } },
+{ "type": "Feature", "properties": { "id": 8929843513, "name": "Cầu Đông Mỹ- Ngũ Hiệp (Chiều Long Biên - Đông Mỹ)", "index_right": 123, "district": "Xã Nam Phù" }, "geometry": { "type": "Point", "coordinates": [ 105.8677274, 20.9167108 ] } },
+{ "type": "Feature", "properties": { "id": 8929843514, "name": "Trung tâm giáo dục thường xuyên Đông Mỹ - Ngũ Hiệp", "index_right": 123, "district": "Xã Nam Phù" }, "geometry": { "type": "Point", "coordinates": [ 105.8719232, 20.9154837 ] } },
+{ "type": "Feature", "properties": { "id": 8929843515, "name": "Sân vận động Đông Mỹ", "index_right": 123, "district": "Xã Nam Phù" }, "geometry": { "type": "Point", "coordinates": [ 105.873578, 20.918588 ] } },
+{ "type": "Feature", "properties": { "id": 8930639190, "name": "Cầu Đông Mỹ - Ngũ Hiệp (Chiều Đông Mỹ - Long Biên)", "index_right": 123, "district": "Xã Nam Phù" }, "geometry": { "type": "Point", "coordinates": [ 105.8676828, 20.9168458 ] } },
+{ "type": "Feature", "properties": { "id": 8930639199, "name": "Vạn Phúc", "index_right": 123, "district": "Xã Nam Phù" }, "geometry": { "type": "Point", "coordinates": [ 105.8912975, 20.9114304 ] } },
+{ "type": "Feature", "properties": { "id": 8930639205, "name": "Công ty CP May Đông Mỹ - Ngũ Hiệp", "index_right": 123, "district": "Xã Nam Phù" }, "geometry": { "type": "Point", "coordinates": [ 105.8717308, 20.9154652 ] } },
+{ "type": "Feature", "properties": { "id": 8930639210, "name": "Đình làng Tương Chúc - Ngũ Hiệp", "index_right": 123, "district": "Xã Nam Phù" }, "geometry": { "type": "Point", "coordinates": [ 105.8647316, 20.919779 ] } },
+{ "type": "Feature", "properties": { "id": 12304576320, "name": "Cây xăng Đông Mỹ", "index_right": 123, "district": "Xã Nam Phù" }, "geometry": { "type": "Point", "coordinates": [ 105.8740729, 20.9124586 ] } },
+{ "type": "Feature", "properties": { "id": 12304576324, "name": "Trường Mầm non B Vạn Phúc", "index_right": 123, "district": "Xã Nam Phù" }, "geometry": { "type": "Point", "coordinates": [ 105.8878204, 20.909309 ] } },
+{ "type": "Feature", "properties": { "id": 12304576325, "name": "Đình Ninh Xá", "index_right": 123, "district": "Xã Nam Phù" }, "geometry": { "type": "Point", "coordinates": [ 105.8837137, 20.9090974 ] } },
+{ "type": "Feature", "properties": { "id": 12304576326, "name": "Nghĩa trang Ninh Xá", "index_right": 123, "district": "Xã Nam Phù" }, "geometry": { "type": "Point", "coordinates": [ 105.8781573, 20.9105187 ] } },
+{ "type": "Feature", "properties": { "id": 12304576327, "name": "Cây xăng Đông Mỹ", "index_right": 123, "district": "Xã Nam Phù" }, "geometry": { "type": "Point", "coordinates": [ 105.8742368, 20.912491 ] } },
+{ "type": "Feature", "properties": { "id": 13109916106, "name": "Điểm canh đê 32 - Đê Hữu Hồng", "index_right": 123, "district": "Xã Nam Phù" }, "geometry": { "type": "Point", "coordinates": [ 105.8759159, 20.9219561 ] } },
+{ "type": "Feature", "properties": { "id": 13109916107, "name": "Trạm bơm Đông Mỹ", "index_right": 123, "district": "Xã Nam Phù" }, "geometry": { "type": "Point", "coordinates": [ 105.8799011, 20.9234809 ] } },
+{ "type": "Feature", "properties": { "id": 13109916108, "name": "Cổng làng văn hoá Mỹ Á thôn Đông Mỹ - Đê Hữu Hồng", "index_right": 123, "district": "Xã Nam Phù" }, "geometry": { "type": "Point", "coordinates": [ 105.8832902, 20.9214098 ] } },
+{ "type": "Feature", "properties": { "id": 13109916109, "name": "Cách lối rẽ vào UBND xã Vạn Phúc 70m - Đê Hữu Hồng", "index_right": 123, "district": "Xã Nam Phù" }, "geometry": { "type": "Point", "coordinates": [ 105.8910591, 20.9138245 ] } },
+{ "type": "Feature", "properties": { "id": 13109916110, "name": "Qua lối rẽ vào UBND xã Vạn Phúc 50m - Đê Hữu Hồng", "index_right": 123, "district": "Xã Nam Phù" }, "geometry": { "type": "Point", "coordinates": [ 105.8909088, 20.9140369 ] } },
+{ "type": "Feature", "properties": { "id": 13109916111, "name": "Đối diện cổng làng văn hoá Mỹ Á thôn Đông Mỹ - Đê Hữu Hồng", "index_right": 123, "district": "Xã Nam Phù" }, "geometry": { "type": "Point", "coordinates": [ 105.883912, 20.9208258 ] } },
+{ "type": "Feature", "properties": { "id": 13109916112, "name": "Đối diện trạm bơm Đông Mỹ", "index_right": 123, "district": "Xã Nam Phù" }, "geometry": { "type": "Point", "coordinates": [ 105.8812335, 20.9238515 ] } },
+{ "type": "Feature", "properties": { "id": 13109916113, "name": "Đối diện cách điếm canh đê số 32 Thôn Đông Mỹ 100m - Đê Hữu Hồng", "index_right": 123, "district": "Xã Nam Phù" }, "geometry": { "type": "Point", "coordinates": [ 105.8767262, 20.9223501 ] } }
+]
+}

@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "Phường_Xuân_Hòa",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 11537293679, "name": "183 Trường Chinh - TP. Phúc Yên", "index_right": 200, "district": "Phường Xuân Hòa" }, "geometry": { "type": "Point", "coordinates": [ 105.730318, 21.2780315 ] } },
+{ "type": "Feature", "properties": { "id": 11537293680, "name": "Xuân Hòa - Tuyến 95", "index_right": 200, "district": "Phường Xuân Hòa" }, "geometry": { "type": "Point", "coordinates": [ 105.7266658, 21.2800253 ] } },
+{ "type": "Feature", "properties": { "id": 11537293681, "name": "170 Trường Chinh - TP. Phúc Yên", "index_right": 200, "district": "Phường Xuân Hòa" }, "geometry": { "type": "Point", "coordinates": [ 105.7304275, 21.2779028 ] } }
+]
+}

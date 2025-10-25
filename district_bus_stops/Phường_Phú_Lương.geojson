@@ -1,0 +1,18 @@
+{
+"type": "FeatureCollection",
+"name": "Phường_Phú_Lương",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 8770739144, "name": "Trường Trung cấp Kinh tế - Tài chính Hà Nội", "index_right": 97, "district": "Phường Phú Lương" }, "geometry": { "type": "Point", "coordinates": [ 105.7504303, 20.9512715 ] } },
+{ "type": "Feature", "properties": { "id": 9007633029, "name": "Trung cấp Kỹ thuật Y dược Hà Nội", "index_right": 97, "district": "Phường Phú Lương" }, "geometry": { "type": "Point", "coordinates": [ 105.7568235, 20.9474198 ] } },
+{ "type": "Feature", "properties": { "id": 9007633048, "name": "Đại Học Đại Nam", "index_right": 97, "district": "Phường Phú Lương" }, "geometry": { "type": "Point", "coordinates": [ 105.7570537, 20.9480244 ] } },
+{ "type": "Feature", "properties": { "id": 9007633049, "name": "124 Phố Xốm", "index_right": 97, "district": "Phường Phú Lương" }, "geometry": { "type": "Point", "coordinates": [ 105.7566495, 20.9435116 ] } },
+{ "type": "Feature", "properties": { "id": 9007633050, "name": "157 Phố Xốm - THPT Trần Hưng Đạo", "index_right": 97, "district": "Phường Phú Lương" }, "geometry": { "type": "Point", "coordinates": [ 105.7568046, 20.9436296 ] } },
+{ "type": "Feature", "properties": { "id": 9007633051, "name": "90 Tổ 7 Phú Lãm", "index_right": 97, "district": "Phường Phú Lương" }, "geometry": { "type": "Point", "coordinates": [ 105.7575604, 20.9371715 ] } },
+{ "type": "Feature", "properties": { "id": 9007633052, "name": "Lối vào Làng Thượng Mạo", "index_right": 97, "district": "Phường Phú Lương" }, "geometry": { "type": "Point", "coordinates": [ 105.757688, 20.9357191 ] } },
+{ "type": "Feature", "properties": { "id": 9019290614, "name": "Đối diện đường vào Khu đô thị Thanh Hà", "index_right": 97, "district": "Phường Phú Lương" }, "geometry": { "type": "Point", "coordinates": [ 105.7838849, 20.9396946 ] } },
+{ "type": "Feature", "properties": { "id": 9019290615, "name": "Trước lối rẽ đường vào khu đô thị Thanh Hà", "index_right": 97, "district": "Phường Phú Lương" }, "geometry": { "type": "Point", "coordinates": [ 105.7844343, 20.9401709 ] } },
+{ "type": "Feature", "properties": { "id": 9019290616, "name": "Đối diện HH02E - KĐT Thanh Hà", "index_right": 97, "district": "Phường Phú Lương" }, "geometry": { "type": "Point", "coordinates": [ 105.783339, 20.9347077 ] } },
+{ "type": "Feature", "properties": { "id": 9019312617, "name": "Đối diện đường vào sân Golf Thanh Hà 10m", "index_right": 97, "district": "Phường Phú Lương" }, "geometry": { "type": "Point", "coordinates": [ 105.783475, 20.9296272 ] } }
+]
+}

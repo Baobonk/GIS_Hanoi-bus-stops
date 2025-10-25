@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "Xã_Văn_Giang",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 8919736487, "name": "Hè trước Agribank Văn Giang", "index_right": 185, "district": "Xã Văn Giang" }, "geometry": { "type": "Point", "coordinates": [ 105.9273614, 20.9467638 ] } },
+{ "type": "Feature", "properties": { "id": 8919736489, "name": "Trường Trung cấp Cảnh sát Nhân dân", "index_right": 185, "district": "Xã Văn Giang" }, "geometry": { "type": "Point", "coordinates": [ 105.9322372, 20.9457292 ] } },
+{ "type": "Feature", "properties": { "id": 8919736491, "name": "Hè trước số nhà 263 thị trấn Văn Giang", "index_right": 185, "district": "Xã Văn Giang" }, "geometry": { "type": "Point", "coordinates": [ 105.9373562, 20.9455491 ] } },
+{ "type": "Feature", "properties": { "id": 8919736492, "name": "Hè trước nhà 234 thị trấn Văn Giang", "index_right": 185, "district": "Xã Văn Giang" }, "geometry": { "type": "Point", "coordinates": [ 105.9378501, 20.9457625 ] } }
+]
+}

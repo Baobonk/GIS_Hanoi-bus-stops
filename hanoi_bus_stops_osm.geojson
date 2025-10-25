@@ -144,7 +144,7 @@
 { "type": "Feature", "properties": { "id": 738814358, "name": "Đối diện Khu tập thể LICÔLA - Ngọc Hồi" }, "geometry": { "type": "Point", "coordinates": [ 105.8445668, 20.9389791 ] } },
 { "type": "Feature", "properties": { "id": 738814363, "name": "Chung cư A3B 92 Thanh Nhàn" }, "geometry": { "type": "Point", "coordinates": [ 105.8531245, 21.0029635 ] } },
 { "type": "Feature", "properties": { "id": 738814364, "name": "116 A5 Tập thể Giảng Võ - Kim Mã" }, "geometry": { "type": "Point", "coordinates": [ 105.8188373, 21.0306611 ] } },
-{ "type": "Feature", "properties": { "id": 738814370, "name": "Siêu thị Uni mart - 8 Phạm Ngọc Thạch" }, "geometry": { "type": "Point", "coordinates": [ 105.8331123, 21.0075914 ] } },
+{ "type": "Feature", "properties": { "id": 738814370, "name": "Siêu thị Uni mart - 8 Phạm Ngọc Thạch" }, "geometry": { "type": "Point", "coordinates": [ 105.8335776, 21.0080224 ] } },
 { "type": "Feature", "properties": { "id": 738814378, "name": "215 Âu Cơ" }, "geometry": { "type": "Point", "coordinates": [ 105.8281083, 21.0660154 ] } },
 { "type": "Feature", "properties": { "id": 738814388, "name": "Đối diện 123 Lĩnh Nam - Thôn Tân Khai" }, "geometry": { "type": "Point", "coordinates": [ 105.8693059, 20.9863255 ] } },
 { "type": "Feature", "properties": { "id": 738814398, "name": "3 Thái Hà - Bể bơi Thái Hà" }, "geometry": { "type": "Point", "coordinates": [ 105.8229433, 21.0100085 ] } },
@@ -495,7 +495,7 @@
 { "type": "Feature", "properties": { "id": 8259365871, "name": "51 Lý Thái Tổ - Ngân hàng Nhà nước Việt Nam" }, "geometry": { "type": "Point", "coordinates": [ 105.8562766, 21.0267045 ] } },
 { "type": "Feature", "properties": { "id": 8342158074, "name": "Gần khu tập thể, trước ngã tư Thụy Phương khoảng 150m" }, "geometry": { "type": "Point", "coordinates": [ 105.7756309, 21.0835455 ] } },
 { "type": "Feature", "properties": { "id": 8347802015, "name": "Trường Đại học Y tế Cộng đồng" }, "geometry": { "type": "Point", "coordinates": [ 105.7781643, 21.0826295 ] } },
-{ "type": "Feature", "properties": { "id": 8349461376, "name": "208A ngõ Xã Đàn 2" }, "geometry": { "type": "Point", "coordinates": [ 105.8322703, 21.0124469 ] } },
+{ "type": "Feature", "properties": { "id": 8349461376, "name": "208A ngõ Xã Đàn 2" }, "geometry": { "type": "Point", "coordinates": [ 105.8325877, 21.0129431 ] } },
 { "type": "Feature", "properties": { "id": 8349461377, "name": "165 Xã Đàn" }, "geometry": { "type": "Point", "coordinates": [ 105.8335006, 21.0145775 ] } },
 { "type": "Feature", "properties": { "id": 8349461378, "name": "Trung tâm Văn hoá-Thể thao quận Đống Đa" }, "geometry": { "type": "Point", "coordinates": [ 105.8315416, 21.0089376 ] } },
 { "type": "Feature", "properties": { "id": 8349461379, "name": "101 Đặng Văn Ngữ" }, "geometry": { "type": "Point", "coordinates": [ 105.8322295, 21.0082038 ] } },
@@ -2498,7 +2498,7 @@
 { "type": "Feature", "properties": { "id": 11527354911, "name": "Sân vận động quốc gia Mỹ Đình" }, "geometry": { "type": "Point", "coordinates": [ 105.7658668, 21.0197682 ] } },
 { "type": "Feature", "properties": { "id": 11527354912, "name": "Trường THCS Phú Đô" }, "geometry": { "type": "Point", "coordinates": [ 105.7702769, 21.012914 ] } },
 { "type": "Feature", "properties": { "id": 11527354913, "name": "110-112 Lạc Trung" }, "geometry": { "type": "Point", "coordinates": [ 105.8641666, 21.0030233 ] } },
-{ "type": "Feature", "properties": { "id": 11527354914, "name": "88 Phạm Ngọc Thạch" }, "geometry": { "type": "Point", "coordinates": [ 105.8316649, 21.0067561 ] } },
+{ "type": "Feature", "properties": { "id": 11527354914, "name": "88 Phạm Ngọc Thạch" }, "geometry": { "type": "Point", "coordinates": [ 105.831864, 21.006912 ] } },
 { "type": "Feature", "properties": { "id": 11527354915, "name": "58 Trần Vỹ" }, "geometry": { "type": "Point", "coordinates": [ 105.772936, 21.0403566 ] } },
 { "type": "Feature", "properties": { "id": 11527354916, "name": "Học viện Tư pháp - Tuyến 51" }, "geometry": { "type": "Point", "coordinates": [ 105.7741619, 21.0449483 ] } },
 { "type": "Feature", "properties": { "id": 11527354917, "name": "Cạnh nhà tang lễ Cầu Giấy" }, "geometry": { "type": "Point", "coordinates": [ 105.7727381, 21.0406074 ] } },
@@ -3266,7 +3266,7 @@
 { "type": "Feature", "properties": { "id": 13043144595, "name": "Không tên" }, "geometry": { "type": "Point", "coordinates": [ 105.92902, 21.1985374 ] } },
 { "type": "Feature", "properties": { "id": 13043144596, "name": "Không tên" }, "geometry": { "type": "Point", "coordinates": [ 105.9281553, 21.1984772 ] } },
 { "type": "Feature", "properties": { "id": 13044609988, "name": "Phù Chẩn" }, "geometry": { "type": "Point", "coordinates": [ 105.9673971, 21.093284 ] } },
-{ "type": "Feature", "properties": { "id": 13044609989, "name": "Phù Chẩn" }, "geometry": { "type": "Point", "coordinates": [ 105.967314, 21.0935783 ] } },
+{ "type": "Feature", "properties": { "id": 13044609989, "name": "UBND phường Phù Chẩn" }, "geometry": { "type": "Point", "coordinates": [ 105.967314, 21.0935783 ] } },
 { "type": "Feature", "properties": { "id": 13044609997, "name": "Rích Gạo - KCN VSIP" }, "geometry": { "type": "Point", "coordinates": [ 105.9665168, 21.0881111 ] } },
 { "type": "Feature", "properties": { "id": 13076788486, "name": "Hồ Hoàn Kiếm (đối diện 15 Hàng Khay)" }, "geometry": { "type": "Point", "coordinates": [ 105.8523018, 21.025802 ] } },
 { "type": "Feature", "properties": { "id": 13076788487, "name": "Đối diện 104 Ngọc Hà" }, "geometry": { "type": "Point", "coordinates": [ 105.8311087, 21.0367234 ] } },
@@ -3310,6 +3310,7 @@
 { "type": "Feature", "properties": { "id": 13179594301, "name": "Không tên" }, "geometry": { "type": "Point", "coordinates": [ 105.9563273, 21.1756528 ] } },
 { "type": "Feature", "properties": { "id": 13179594332, "name": "Không tên" }, "geometry": { "type": "Point", "coordinates": [ 105.9561537, 21.1783923 ] } },
 { "type": "Feature", "properties": { "id": 13179594333, "name": "Không tên" }, "geometry": { "type": "Point", "coordinates": [ 105.9559737, 21.1789098 ] } },
-{ "type": "Feature", "properties": { "id": 13179594334, "name": "Không tên" }, "geometry": { "type": "Point", "coordinates": [ 105.9554375, 21.1834975 ] } }
+{ "type": "Feature", "properties": { "id": 13179594334, "name": "Không tên" }, "geometry": { "type": "Point", "coordinates": [ 105.9554375, 21.1834975 ] } },
+{ "type": "Feature", "properties": { "id": 13254325489, "name": "32 Hồ Tùng Mậu" }, "geometry": { "type": "Point", "coordinates": [ 105.7787568, 21.0367791 ] } }
 ]
 }

@@ -1,0 +1,30 @@
+{
+"type": "FeatureCollection",
+"name": "Phường_Vĩnh_Tuy",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 446044220, "name": "Giữa số nhà 169-171 Kim Ngưu", "index_right": 51, "district": "Phường Vĩnh Tuy" }, "geometry": { "type": "Point", "coordinates": [ 105.861457, 21.006027 ] } },
+{ "type": "Feature", "properties": { "id": 738813235, "name": "377 Kim Ngưu", "index_right": 51, "district": "Phường Vĩnh Tuy" }, "geometry": { "type": "Point", "coordinates": [ 105.8618776, 21.0020851 ] } },
+{ "type": "Feature", "properties": { "id": 738814313, "name": "Hè trước số nhà 202 - 204 Nguyễn Khoái", "index_right": 51, "district": "Phường Vĩnh Tuy" }, "geometry": { "type": "Point", "coordinates": [ 105.8680412, 21.0063536 ] } },
+{ "type": "Feature", "properties": { "id": 738814794, "name": "386-388 Minh Khai", "index_right": 51, "district": "Phường Vĩnh Tuy" }, "geometry": { "type": "Point", "coordinates": [ 105.8638045, 20.9966848 ] } },
+{ "type": "Feature", "properties": { "id": 738814879, "name": "89 Tam Trinh", "index_right": 51, "district": "Phường Vĩnh Tuy" }, "geometry": { "type": "Point", "coordinates": [ 105.862806, 20.9938962 ] } },
+{ "type": "Feature", "properties": { "id": 4292785589, "name": "Khu đô thị Times City", "index_right": 51, "district": "Phường Vĩnh Tuy" }, "geometry": { "type": "Point", "coordinates": [ 105.8675262, 20.993574 ] } },
+{ "type": "Feature", "properties": { "id": 7056039272, "name": "Tòa nhà Imperia Garden 2 - 423 Minh Khai", "index_right": 51, "district": "Phường Vĩnh Tuy" }, "geometry": { "type": "Point", "coordinates": [ 105.8664184, 20.9979983 ] } },
+{ "type": "Feature", "properties": { "id": 7056039273, "name": "690-692 Minh Khai", "index_right": 51, "district": "Phường Vĩnh Tuy" }, "geometry": { "type": "Point", "coordinates": [ 105.8707504, 21.0006838 ] } },
+{ "type": "Feature", "properties": { "id": 7056039274, "name": "539-541 Minh Khai", "index_right": 51, "district": "Phường Vĩnh Tuy" }, "geometry": { "type": "Point", "coordinates": [ 105.870575, 21.000797 ] } },
+{ "type": "Feature", "properties": { "id": 7056039275, "name": "82 Vĩnh Tuy", "index_right": 51, "district": "Phường Vĩnh Tuy" }, "geometry": { "type": "Point", "coordinates": [ 105.8726506, 21.0012071 ] } },
+{ "type": "Feature", "properties": { "id": 7056039276, "name": "Viện Kinh tế và Kỹ thuật Dệt may - 478 Minh Khai", "index_right": 51, "district": "Phường Vĩnh Tuy" }, "geometry": { "type": "Point", "coordinates": [ 105.8669566, 20.9977042 ] } },
+{ "type": "Feature", "properties": { "id": 8741080080, "name": "Công ty CP Dệt CN Hà Nội - 93 Lĩnh Nam", "index_right": 51, "district": "Phường Vĩnh Tuy" }, "geometry": { "type": "Point", "coordinates": [ 105.8683055, 20.9870824 ] } },
+{ "type": "Feature", "properties": { "id": 8741080081, "name": "Đối diện 72 Lĩnh Nam", "index_right": 51, "district": "Phường Vĩnh Tuy" }, "geometry": { "type": "Point", "coordinates": [ 105.8660589, 20.988849 ] } },
+{ "type": "Feature", "properties": { "id": 8741080082, "name": "Giữa số nhà 613-615 Kim Ngưu", "index_right": 51, "district": "Phường Vĩnh Tuy" }, "geometry": { "type": "Point", "coordinates": [ 105.8622222, 20.9990478 ] } },
+{ "type": "Feature", "properties": { "id": 8807115914, "name": "259 Minh Khai", "index_right": 51, "district": "Phường Vĩnh Tuy" }, "geometry": { "type": "Point", "coordinates": [ 105.863895, 20.9970976 ] } },
+{ "type": "Feature", "properties": { "id": 8835043630, "name": "220 Nguyễn Khoái", "index_right": 51, "district": "Phường Vĩnh Tuy" }, "geometry": { "type": "Point", "coordinates": [ 105.868308, 21.0060805 ] } },
+{ "type": "Feature", "properties": { "id": 10118163079, "name": "505 Minh Khai", "index_right": 51, "district": "Phường Vĩnh Tuy" }, "geometry": { "type": "Point", "coordinates": [ 105.8699775, 20.9993569 ] } },
+{ "type": "Feature", "properties": { "id": 11152433987, "name": "Đối diện 61 Tam Trinh", "index_right": 51, "district": "Phường Vĩnh Tuy" }, "geometry": { "type": "Point", "coordinates": [ 105.8625619, 20.9950488 ] } },
+{ "type": "Feature", "properties": { "id": 11152433988, "name": "Đối diện 161 - 163 Tam Trinh", "index_right": 51, "district": "Phường Vĩnh Tuy" }, "geometry": { "type": "Point", "coordinates": [ 105.8629058, 20.9922122 ] } },
+{ "type": "Feature", "properties": { "id": 11527354913, "name": "110-112 Lạc Trung", "index_right": 51, "district": "Phường Vĩnh Tuy" }, "geometry": { "type": "Point", "coordinates": [ 105.8641666, 21.0030233 ] } },
+{ "type": "Feature", "properties": { "id": 11527354918, "name": "Đối diện 84 Lạc Trung", "index_right": 51, "district": "Phường Vĩnh Tuy" }, "geometry": { "type": "Point", "coordinates": [ 105.863629, 21.0029185 ] } },
+{ "type": "Feature", "properties": { "id": 11554362847, "name": "T1 Vinhomes Times City", "index_right": 51, "district": "Phường Vĩnh Tuy" }, "geometry": { "type": "Point", "coordinates": [ 105.8691233, 20.9965588 ] } },
+{ "type": "Feature", "properties": { "id": 12579155918, "name": "Đối diện Phòng khám VinMec - TTTM Times City", "index_right": 51, "district": "Phường Vĩnh Tuy" }, "geometry": { "type": "Point", "coordinates": [ 105.8674259, 20.9929279 ] } }
+]
+}

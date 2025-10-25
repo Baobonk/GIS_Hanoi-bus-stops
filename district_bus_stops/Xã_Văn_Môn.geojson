@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"name": "Xã_Văn_Môn",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 13043137247, "name": "Không tên", "index_right": 20, "district": "Xã Văn Môn" }, "geometry": { "type": "Point", "coordinates": [ 105.9227394, 21.1994005 ] } },
+{ "type": "Feature", "properties": { "id": 13043144593, "name": "Không tên", "index_right": 20, "district": "Xã Văn Môn" }, "geometry": { "type": "Point", "coordinates": [ 105.9340639, 21.1978631 ] } },
+{ "type": "Feature", "properties": { "id": 13043144594, "name": "Không tên", "index_right": 20, "district": "Xã Văn Môn" }, "geometry": { "type": "Point", "coordinates": [ 105.93277, 21.1978539 ] } },
+{ "type": "Feature", "properties": { "id": 13043144595, "name": "Không tên", "index_right": 20, "district": "Xã Văn Môn" }, "geometry": { "type": "Point", "coordinates": [ 105.92902, 21.1985374 ] } },
+{ "type": "Feature", "properties": { "id": 13043144596, "name": "Không tên", "index_right": 20, "district": "Xã Văn Môn" }, "geometry": { "type": "Point", "coordinates": [ 105.9281553, 21.1984772 ] } },
+{ "type": "Feature", "properties": { "id": 13179594293, "name": "Không tên", "index_right": 20, "district": "Xã Văn Môn" }, "geometry": { "type": "Point", "coordinates": [ 105.9567953, 21.1718548 ] } },
+{ "type": "Feature", "properties": { "id": 13179594294, "name": "Không tên", "index_right": 20, "district": "Xã Văn Môn" }, "geometry": { "type": "Point", "coordinates": [ 105.9566593, 21.1720805 ] } },
+{ "type": "Feature", "properties": { "id": 13179594300, "name": "Không tên", "index_right": 20, "district": "Xã Văn Môn" }, "geometry": { "type": "Point", "coordinates": [ 105.9563985, 21.1759431 ] } },
+{ "type": "Feature", "properties": { "id": 13179594301, "name": "Không tên", "index_right": 20, "district": "Xã Văn Môn" }, "geometry": { "type": "Point", "coordinates": [ 105.9563273, 21.1756528 ] } }
+]
+}

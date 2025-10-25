@@ -1,0 +1,29 @@
+{
+"type": "FeatureCollection",
+"name": "Phường_Hoàng_Liệt",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 738813325, "name": "Đối diện Bến xe Nước ngầm Hà Nội - Ngọc Hồi", "index_right": 81, "district": "Phường Hoàng Liệt" }, "geometry": { "type": "Point", "coordinates": [ 105.8418212, 20.964293 ] } },
+{ "type": "Feature", "properties": { "id": 738814934, "name": "Nhà NƠ. 7B KĐT Linh Đàm", "index_right": 81, "district": "Phường Hoàng Liệt" }, "geometry": { "type": "Point", "coordinates": [ 105.8304947, 20.9635467 ] } },
+{ "type": "Feature", "properties": { "id": 738815864, "name": "Đối diện TCT cơ điện nông nghiệp & Thủy lợi (Văn Điển) - 264 Ngọc Hồi", "index_right": 81, "district": "Phường Hoàng Liệt" }, "geometry": { "type": "Point", "coordinates": [ 105.8438479, 20.9520945 ] } },
+{ "type": "Feature", "properties": { "id": 738815872, "name": "Qua đường vào Bệnh viện đa khoa Thăng Long 60m - Đối diện 171 Ngọc Hồi", "index_right": 81, "district": "Phường Hoàng Liệt" }, "geometry": { "type": "Point", "coordinates": [ 105.8432466, 20.9549633 ] } },
+{ "type": "Feature", "properties": { "id": 4273838289, "name": "Nhà HH1C Khu đô thị Linh Đàm", "index_right": 81, "district": "Phường Hoàng Liệt" }, "geometry": { "type": "Point", "coordinates": [ 105.8266338, 20.9649982 ] } },
+{ "type": "Feature", "properties": { "id": 8236289500, "name": "Nhà NƠ. 1A KĐT Linh Đàm", "index_right": 81, "district": "Phường Hoàng Liệt" }, "geometry": { "type": "Point", "coordinates": [ 105.8312828, 20.9649072 ] } },
+{ "type": "Feature", "properties": { "id": 8236289507, "name": "Công viên Bắc Linh Đàm", "index_right": 81, "district": "Phường Hoàng Liệt" }, "geometry": { "type": "Point", "coordinates": [ 105.8265991, 20.9672675 ] } },
+{ "type": "Feature", "properties": { "id": 8237141711, "name": "Trường PTTH Việt Nam Balan (Đối diện Khách sạn Nam Thành) - Ngọc Hồi", "index_right": 81, "district": "Phường Hoàng Liệt" }, "geometry": { "type": "Point", "coordinates": [ 105.841948, 20.9609167 ] } },
+{ "type": "Feature", "properties": { "id": 8755733290, "name": "Nhà HH2A Khu đô thị Linh Đàm", "index_right": 81, "district": "Phường Hoàng Liệt" }, "geometry": { "type": "Point", "coordinates": [ 105.8273284, 20.965005 ] } },
+{ "type": "Feature", "properties": { "id": 8829926857, "name": "Đối diện Ao sen Làng Đại Từ - Nguyễn Hữu Thọ", "index_right": 81, "district": "Phường Hoàng Liệt" }, "geometry": { "type": "Point", "coordinates": [ 105.8313345, 20.9695644 ] } },
+{ "type": "Feature", "properties": { "id": 8829926858, "name": "Đối diện đường vào KĐT Đại Kim - 45 Nguyễn Hữu Thọ", "index_right": 81, "district": "Phường Hoàng Liệt" }, "geometry": { "type": "Point", "coordinates": [ 105.8362692, 20.9707663 ] } },
+{ "type": "Feature", "properties": { "id": 8838269673, "name": "Ngã 4 Giải Phóng - Hoàng Liệt", "index_right": 81, "district": "Phường Hoàng Liệt" }, "geometry": { "type": "Point", "coordinates": [ 105.8407829, 20.9659355 ] } },
+{ "type": "Feature", "properties": { "id": 8838269674, "name": "Trước Tượng đài liệt sĩ phường Hoàng Liệt 30m", "index_right": 81, "district": "Phường Hoàng Liệt" }, "geometry": { "type": "Point", "coordinates": [ 105.8382914, 20.9661603 ] } },
+{ "type": "Feature", "properties": { "id": 8838269675, "name": "UBND phường Hoàng Liệt", "index_right": 81, "district": "Phường Hoàng Liệt" }, "geometry": { "type": "Point", "coordinates": [ 105.8351739, 20.9664724 ] } },
+{ "type": "Feature", "properties": { "id": 8838269676, "name": "Trung Tâm CSKH Điện Lực Miền Bắc", "index_right": 81, "district": "Phường Hoàng Liệt" }, "geometry": { "type": "Point", "coordinates": [ 105.8316112, 20.9660145 ] } },
+{ "type": "Feature", "properties": { "id": 8840893889, "name": "Trung Tâm CSKH Điện Lực Miền Bắc", "index_right": 81, "district": "Phường Hoàng Liệt" }, "geometry": { "type": "Point", "coordinates": [ 105.8318662, 20.9659739 ] } },
+{ "type": "Feature", "properties": { "id": 8840893890, "name": "Qua chợ Xanh Linh Đàm 50m", "index_right": 81, "district": "Phường Hoàng Liệt" }, "geometry": { "type": "Point", "coordinates": [ 105.8359385, 20.9659896 ] } },
+{ "type": "Feature", "properties": { "id": 8840893891, "name": "Đối diện qua Tượng đài liệt sĩ phường Hoàng Liệt 30m", "index_right": 81, "district": "Phường Hoàng Liệt" }, "geometry": { "type": "Point", "coordinates": [ 105.8396014, 20.9656265 ] } },
+{ "type": "Feature", "properties": { "id": 8846358759, "name": "Số 5 TT1A Tây Nam Linh Đàm", "index_right": 81, "district": "Phường Hoàng Liệt" }, "geometry": { "type": "Point", "coordinates": [ 105.820917, 20.9649103 ] } },
+{ "type": "Feature", "properties": { "id": 8846358760, "name": "Nhà CT4B X2 Bắc Linh Đàm", "index_right": 81, "district": "Phường Hoàng Liệt" }, "geometry": { "type": "Point", "coordinates": [ 105.8235861, 20.9654359 ] } },
+{ "type": "Feature", "properties": { "id": 8846358784, "name": "Nhà CT3C X2 Bắc Linh Đàm", "index_right": 81, "district": "Phường Hoàng Liệt" }, "geometry": { "type": "Point", "coordinates": [ 105.8232641, 20.9656724 ] } },
+{ "type": "Feature", "properties": { "id": 8846358785, "name": "Qua 15m đối diện ngõ 15 Bằng Liệt", "index_right": 81, "district": "Phường Hoàng Liệt" }, "geometry": { "type": "Point", "coordinates": [ 105.8202144, 20.9646092 ] } }
+]
+}

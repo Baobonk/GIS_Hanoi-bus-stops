@@ -1,0 +1,33 @@
+{
+"type": "FeatureCollection",
+"name": "Xã_Kim_Anh",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 11528593152, "name": "Cầu Xuân Phương", "index_right": 76, "district": "Xã Kim Anh" }, "geometry": { "type": "Point", "coordinates": [ 105.7384576, 21.240363 ] } },
+{ "type": "Feature", "properties": { "id": 11531107940, "name": "Cầu Xuân Phương", "index_right": 76, "district": "Xã Kim Anh" }, "geometry": { "type": "Point", "coordinates": [ 105.736961, 21.2401043 ] } },
+{ "type": "Feature", "properties": { "id": 11533397307, "name": "Đối diện Trường Cao đẳng nghề điện - Xuân Lễ - Tân Dân", "index_right": 76, "district": "Xã Kim Anh" }, "geometry": { "type": "Point", "coordinates": [ 105.7676687, 21.2437603 ] } },
+{ "type": "Feature", "properties": { "id": 11533397310, "name": "Trước 100m cầu Phú Hữu", "index_right": 76, "district": "Xã Kim Anh" }, "geometry": { "type": "Point", "coordinates": [ 105.7871315, 21.2640768 ] } },
+{ "type": "Feature", "properties": { "id": 11533397311, "name": "Trước đối diện 100m Doanh trại QĐND Việt Nam - Xóm Phú Cường, Hiền Ninh", "index_right": 76, "district": "Xã Kim Anh" }, "geometry": { "type": "Point", "coordinates": [ 105.7919694, 21.2709645 ] } },
+{ "type": "Feature", "properties": { "id": 11533397312, "name": "Trước 70m đối diện lối vào Phòng khám đa khoa Minh Phú", "index_right": 76, "district": "Xã Kim Anh" }, "geometry": { "type": "Point", "coordinates": [ 105.7949775, 21.2743028 ] } },
+{ "type": "Feature", "properties": { "id": 11533397313, "name": "Đối diện Bưu điện - trường THPT Minh Phú", "index_right": 76, "district": "Xã Kim Anh" }, "geometry": { "type": "Point", "coordinates": [ 105.7986081, 21.2785168 ] } },
+{ "type": "Feature", "properties": { "id": 11533462565, "name": "Bưu điện - trường THPT Minh Phú", "index_right": 76, "district": "Xã Kim Anh" }, "geometry": { "type": "Point", "coordinates": [ 105.7987002, 21.2787939 ] } },
+{ "type": "Feature", "properties": { "id": 11533462566, "name": "Trước 30m lối vào Phòng khám đa khoa Minh Phú", "index_right": 76, "district": "Xã Kim Anh" }, "geometry": { "type": "Point", "coordinates": [ 105.7950128, 21.2745552 ] } },
+{ "type": "Feature", "properties": { "id": 11533462567, "name": "Trước 70m cột mốc H4/10 - Doanh trại QĐND Việt Nam, Xóm Phú Cường, Hiền Ninh", "index_right": 76, "district": "Xã Kim Anh" }, "geometry": { "type": "Point", "coordinates": [ 105.791469, 21.2706393 ] } },
+{ "type": "Feature", "properties": { "id": 11533462568, "name": "Qua 70m cầu Phú Hữu", "index_right": 76, "district": "Xã Kim Anh" }, "geometry": { "type": "Point", "coordinates": [ 105.7874381, 21.2645967 ] } },
+{ "type": "Feature", "properties": { "id": 11533516171, "name": "Trường Cao đẳng nghề điện - Xuân Lễ - Tân Dân", "index_right": 76, "district": "Xã Kim Anh" }, "geometry": { "type": "Point", "coordinates": [ 105.7678445, 21.2440984 ] } },
+{ "type": "Feature", "properties": { "id": 11537293672, "name": "Đường vào UBND xã Tân Dân", "index_right": 76, "district": "Xã Kim Anh" }, "geometry": { "type": "Point", "coordinates": [ 105.7481475, 21.2401722 ] } },
+{ "type": "Feature", "properties": { "id": 11537293673, "name": "Trường Tiểu học Tân Dân B", "index_right": 76, "district": "Xã Kim Anh" }, "geometry": { "type": "Point", "coordinates": [ 105.7528513, 21.2436055 ] } },
+{ "type": "Feature", "properties": { "id": 11537293674, "name": "Qua 200m Đường vào Làng Thắng Hữu", "index_right": 76, "district": "Xã Kim Anh" }, "geometry": { "type": "Point", "coordinates": [ 105.7508459, 21.2527551 ] } },
+{ "type": "Feature", "properties": { "id": 11537293675, "name": "Qua cửa hàng đồ nội thất Bắc Duy 50m", "index_right": 76, "district": "Xã Kim Anh" }, "geometry": { "type": "Point", "coordinates": [ 105.7504966, 21.2603736 ] } },
+{ "type": "Feature", "properties": { "id": 11537293676, "name": "Đối diện Trường tiểu học Minh Trí", "index_right": 76, "district": "Xã Kim Anh" }, "geometry": { "type": "Point", "coordinates": [ 105.7484601, 21.2675608 ] } },
+{ "type": "Feature", "properties": { "id": 11537293677, "name": "Trường cao đẳng Công nghiệp Phúc Yên", "index_right": 76, "district": "Xã Kim Anh" }, "geometry": { "type": "Point", "coordinates": [ 105.7419083, 21.2725085 ] } },
+{ "type": "Feature", "properties": { "id": 11537293678, "name": "Cách cầu Tre 200m", "index_right": 76, "district": "Xã Kim Anh" }, "geometry": { "type": "Point", "coordinates": [ 105.7352451, 21.2780821 ] } },
+{ "type": "Feature", "properties": { "id": 11537293682, "name": "Gần cầu Tre", "index_right": 76, "district": "Xã Kim Anh" }, "geometry": { "type": "Point", "coordinates": [ 105.734904, 21.2782308 ] } },
+{ "type": "Feature", "properties": { "id": 11537293683, "name": "Trường Cao đẳng Công nghiệp Phúc Yên", "index_right": 76, "district": "Xã Kim Anh" }, "geometry": { "type": "Point", "coordinates": [ 105.7421807, 21.2720481 ] } },
+{ "type": "Feature", "properties": { "id": 11537293684, "name": "Trường Tiểu học Minh Trí", "index_right": 76, "district": "Xã Kim Anh" }, "geometry": { "type": "Point", "coordinates": [ 105.7472817, 21.267745 ] } },
+{ "type": "Feature", "properties": { "id": 11537293685, "name": "Đối diện Cửa hàng đồ nội thất Bắc Duy 50m", "index_right": 76, "district": "Xã Kim Anh" }, "geometry": { "type": "Point", "coordinates": [ 105.750267, 21.2606587 ] } },
+{ "type": "Feature", "properties": { "id": 11537293686, "name": "Cửa hàng Sơn Hải Lợi", "index_right": 76, "district": "Xã Kim Anh" }, "geometry": { "type": "Point", "coordinates": [ 105.7507415, 21.2527835 ] } },
+{ "type": "Feature", "properties": { "id": 11537293687, "name": "Đối diện Trường Tiểu học Tân Dân B", "index_right": 76, "district": "Xã Kim Anh" }, "geometry": { "type": "Point", "coordinates": [ 105.7525307, 21.2434962 ] } },
+{ "type": "Feature", "properties": { "id": 11537293688, "name": "Đường vào UBND xã Tân Dân", "index_right": 76, "district": "Xã Kim Anh" }, "geometry": { "type": "Point", "coordinates": [ 105.7484553, 21.2408685 ] } }
+]
+}

@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"name": "Xã_Phúc_Sơn",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 9006046652, "name": "Qua cầu Ba Thá khoảng 100m", "index_right": 165, "district": "Xã Phúc Sơn" }, "geometry": { "type": "Point", "coordinates": [ 105.7057515, 20.809148 ] } },
+{ "type": "Feature", "properties": { "id": 9006046652, "name": "Qua cầu Ba Thá khoảng 100m", "index_right": 166, "district": "Xã Phúc Sơn" }, "geometry": { "type": "Point", "coordinates": [ 105.7057515, 20.809148 ] } },
+{ "type": "Feature", "properties": { "id": 9006046653, "name": "Trước cầu Ba Thá khoảng 150m", "index_right": 165, "district": "Xã Phúc Sơn" }, "geometry": { "type": "Point", "coordinates": [ 105.7065273, 20.8087322 ] } },
+{ "type": "Feature", "properties": { "id": 9006046653, "name": "Trước cầu Ba Thá khoảng 150m", "index_right": 166, "district": "Xã Phúc Sơn" }, "geometry": { "type": "Point", "coordinates": [ 105.7065273, 20.8087322 ] } },
+{ "type": "Feature", "properties": { "id": 11549840992, "name": "Trước đường vào Bệnh viện tâm thần Huyện Mỹ Đức khoảng 50m", "index_right": 165, "district": "Xã Phúc Sơn" }, "geometry": { "type": "Point", "coordinates": [ 105.7026889, 20.8047924 ] } },
+{ "type": "Feature", "properties": { "id": 11549840992, "name": "Trước đường vào Bệnh viện tâm thần Huyện Mỹ Đức khoảng 50m", "index_right": 166, "district": "Xã Phúc Sơn" }, "geometry": { "type": "Point", "coordinates": [ 105.7026889, 20.8047924 ] } },
+{ "type": "Feature", "properties": { "id": 11549841022, "name": "Đường vào Bệnh viện tâm thần Huyện Mỹ Đức khoảng 50m", "index_right": 165, "district": "Xã Phúc Sơn" }, "geometry": { "type": "Point", "coordinates": [ 105.7027581, 20.8046159 ] } },
+{ "type": "Feature", "properties": { "id": 11549841022, "name": "Đường vào Bệnh viện tâm thần Huyện Mỹ Đức khoảng 50m", "index_right": 166, "district": "Xã Phúc Sơn" }, "geometry": { "type": "Point", "coordinates": [ 105.7027581, 20.8046159 ] } }
+]
+}

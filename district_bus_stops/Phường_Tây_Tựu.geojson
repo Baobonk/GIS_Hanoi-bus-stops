@@ -1,0 +1,28 @@
+{
+"type": "FeatureCollection",
+"name": "Phường_Tây_Tựu",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 8361021995, "name": "Điểm trung chuyển Nhổn", "index_right": 88, "district": "Phường Tây Tựu" }, "geometry": { "type": "Point", "coordinates": [ 105.7370786, 21.0515578 ] } },
+{ "type": "Feature", "properties": { "id": 8901852872, "name": "Ga Minh Khai", "index_right": 88, "district": "Phường Tây Tựu" }, "geometry": { "type": "Point", "coordinates": [ 105.744878, 21.0481394 ] } },
+{ "type": "Feature", "properties": { "id": 8901852873, "name": "Đình và Miếu Đồng Cổ - Đường 32", "index_right": 88, "district": "Phường Tây Tựu" }, "geometry": { "type": "Point", "coordinates": [ 105.7410529, 21.0496417 ] } },
+{ "type": "Feature", "properties": { "id": 8901852874, "name": "22 Phố Nhổn", "index_right": 88, "district": "Phường Tây Tựu" }, "geometry": { "type": "Point", "coordinates": [ 105.7321548, 21.0549054 ] } },
+{ "type": "Feature", "properties": { "id": 8901852875, "name": "Công ty CP xây dựng Thăng Long - Quốc lộ 32", "index_right": 88, "district": "Phường Tây Tựu" }, "geometry": { "type": "Point", "coordinates": [ 105.7274595, 21.0580977 ] } },
+{ "type": "Feature", "properties": { "id": 8971521318, "name": "Điểm trung chuyển Nhổn", "index_right": 88, "district": "Phường Tây Tựu" }, "geometry": { "type": "Point", "coordinates": [ 105.7365521, 21.0519441 ] } },
+{ "type": "Feature", "properties": { "id": 9000718235, "name": "Qua 50m đối diện cổng nghĩa trang liệt sĩ Tây Tựu - Tây Tựu", "index_right": 88, "district": "Phường Tây Tựu" }, "geometry": { "type": "Point", "coordinates": [ 105.7312306, 21.0594806 ] } },
+{ "type": "Feature", "properties": { "id": 9000718236, "name": "Trước 50m cổng nghĩa trang liệt sĩ Tây Tựu - Tây Tựu", "index_right": 88, "district": "Phường Tây Tựu" }, "geometry": { "type": "Point", "coordinates": [ 105.7314853, 21.0584794 ] } },
+{ "type": "Feature", "properties": { "id": 9000718237, "name": "Qua 100m cổng trường Tiểu học Tây Tựu A - Tây Tựu", "index_right": 88, "district": "Phường Tây Tựu" }, "geometry": { "type": "Point", "coordinates": [ 105.7286595, 21.0705501 ] } },
+{ "type": "Feature", "properties": { "id": 9000718238, "name": "Trước 50m đối diện cổng trường Tiểu học Tây Tựu A - Tây Tựu", "index_right": 88, "district": "Phường Tây Tựu" }, "geometry": { "type": "Point", "coordinates": [ 105.7284364, 21.0707803 ] } },
+{ "type": "Feature", "properties": { "id": 9000718239, "name": "Qua 150m đường vào trường ĐHCN Hà Nội - Tây Tựu", "index_right": 88, "district": "Phường Tây Tựu" }, "geometry": { "type": "Point", "coordinates": [ 105.7291449, 21.0778518 ] } },
+{ "type": "Feature", "properties": { "id": 9000718240, "name": "Gần trạm xăng dầu, trước 250m đối diện đường vào khu B trường ĐHCN Hà Nội - Tây Tựu", "index_right": 88, "district": "Phường Tây Tựu" }, "geometry": { "type": "Point", "coordinates": [ 105.7295116, 21.078534 ] } },
+{ "type": "Feature", "properties": { "id": 11518979148, "name": "Nhà Ga Nhổn (ĐH Công Nghiệp) - Đường Cầu Diễn", "index_right": 88, "district": "Phường Tây Tựu" }, "geometry": { "type": "Point", "coordinates": [ 105.7352699, 21.0527983 ] } },
+{ "type": "Feature", "properties": { "id": 11528486376, "name": "Gần Trường tiểu học Tây Tựu B", "index_right": 88, "district": "Phường Tây Tựu" }, "geometry": { "type": "Point", "coordinates": [ 105.7397556, 21.0684165 ] } },
+{ "type": "Feature", "properties": { "id": 11528486377, "name": "Đối diện qua cổng Trường THPT Tây Đô 100m", "index_right": 88, "district": "Phường Tây Tựu" }, "geometry": { "type": "Point", "coordinates": [ 105.7412592, 21.0658174 ] } },
+{ "type": "Feature", "properties": { "id": 11528486378, "name": "Gần đối diện trường Trung cấp Dược Hà Nội", "index_right": 88, "district": "Phường Tây Tựu" }, "geometry": { "type": "Point", "coordinates": [ 105.7473645, 21.0553487 ] } },
+{ "type": "Feature", "properties": { "id": 11528486388, "name": "Gần xí nghiệp vườn hoa quả du lịch Từ Liêm", "index_right": 88, "district": "Phường Tây Tựu" }, "geometry": { "type": "Point", "coordinates": [ 105.7476182, 21.0551339 ] } },
+{ "type": "Feature", "properties": { "id": 11528486389, "name": "Gần cổng trường THPT Tây Đô", "index_right": 88, "district": "Phường Tây Tựu" }, "geometry": { "type": "Point", "coordinates": [ 105.7410165, 21.0660979 ] } },
+{ "type": "Feature", "properties": { "id": 11528486390, "name": "Đối diện Trường tiểu học Tây Tựu B", "index_right": 88, "district": "Phường Tây Tựu" }, "geometry": { "type": "Point", "coordinates": [ 105.7396992, 21.068124 ] } },
+{ "type": "Feature", "properties": { "id": 11888462070, "name": "Không tên", "index_right": 88, "district": "Phường Tây Tựu" }, "geometry": { "type": "Point", "coordinates": [ 105.7433055, 21.0641637 ] } },
+{ "type": "Feature", "properties": { "id": 11888462269, "name": "Không tên", "index_right": 88, "district": "Phường Tây Tựu" }, "geometry": { "type": "Point", "coordinates": [ 105.7457782, 21.0593258 ] } }
+]
+}

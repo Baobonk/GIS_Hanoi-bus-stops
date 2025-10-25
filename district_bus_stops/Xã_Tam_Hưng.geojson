@@ -1,0 +1,32 @@
+{
+"type": "FeatureCollection",
+"name": "Xã_Tam_Hưng",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 9019312625, "name": "Đối diện đường vào Trại tạm giam Thanh Xuân", "index_right": 175, "district": "Xã Tam Hưng" }, "geometry": { "type": "Point", "coordinates": [ 105.7941199, 20.8918238 ] } },
+{ "type": "Feature", "properties": { "id": 9019312626, "name": "Gần đường vào Trại tạm giam Thanh Xuân", "index_right": 175, "district": "Xã Tam Hưng" }, "geometry": { "type": "Point", "coordinates": [ 105.7943975, 20.8920152 ] } },
+{ "type": "Feature", "properties": { "id": 9019312627, "name": "Cách 100m Ngã tư cống Sông Ái", "index_right": 175, "district": "Xã Tam Hưng" }, "geometry": { "type": "Point", "coordinates": [ 105.7890874, 20.8875664 ] } },
+{ "type": "Feature", "properties": { "id": 9019312628, "name": "Đối diện điểm cách 100m Ngã tư cống Sông Ái", "index_right": 175, "district": "Xã Tam Hưng" }, "geometry": { "type": "Point", "coordinates": [ 105.789266, 20.8872781 ] } },
+{ "type": "Feature", "properties": { "id": 9019312629, "name": "Làng Đại Định", "index_right": 175, "district": "Xã Tam Hưng" }, "geometry": { "type": "Point", "coordinates": [ 105.7843467, 20.8879075 ] } },
+{ "type": "Feature", "properties": { "id": 9019312630, "name": "Làng Đại Định", "index_right": 175, "district": "Xã Tam Hưng" }, "geometry": { "type": "Point", "coordinates": [ 105.7840053, 20.8875234 ] } },
+{ "type": "Feature", "properties": { "id": 9019312636, "name": "Qua đối diện đường vào trường THPT Thanh Xuân 70m", "index_right": 175, "district": "Xã Tam Hưng" }, "geometry": { "type": "Point", "coordinates": [ 105.7808234, 20.8865612 ] } },
+{ "type": "Feature", "properties": { "id": 9019312637, "name": "Trước đường vào trường THPT Thanh Xuân 30m", "index_right": 175, "district": "Xã Tam Hưng" }, "geometry": { "type": "Point", "coordinates": [ 105.7798281, 20.8865476 ] } },
+{ "type": "Feature", "properties": { "id": 9019312638, "name": "Cạnh Công ty Kona", "index_right": 175, "district": "Xã Tam Hưng" }, "geometry": { "type": "Point", "coordinates": [ 105.774666, 20.8873902 ] } },
+{ "type": "Feature", "properties": { "id": 11537292355, "name": "Làng Túc xã Thanh Thùy", "index_right": 175, "district": "Xã Tam Hưng" }, "geometry": { "type": "Point", "coordinates": [ 105.8214952, 20.8696803 ] } },
+{ "type": "Feature", "properties": { "id": 11537292356, "name": "Đối diện trường mầm non xã Thanh Thùy", "index_right": 175, "district": "Xã Tam Hưng" }, "geometry": { "type": "Point", "coordinates": [ 105.8109563, 20.8680744 ] } },
+{ "type": "Feature", "properties": { "id": 11537292357, "name": "UBND xã Thanh Thùy", "index_right": 175, "district": "Xã Tam Hưng" }, "geometry": { "type": "Point", "coordinates": [ 105.8056214, 20.8707936 ] } },
+{ "type": "Feature", "properties": { "id": 11537292358, "name": "Đối diện đường vào thôn Bùi Xá", "index_right": 175, "district": "Xã Tam Hưng" }, "geometry": { "type": "Point", "coordinates": [ 105.8017751, 20.8734506 ] } },
+{ "type": "Feature", "properties": { "id": 11537292359, "name": "Thôn Song Khê xã Tam Hưng", "index_right": 175, "district": "Xã Tam Hưng" }, "geometry": { "type": "Point", "coordinates": [ 105.7901402, 20.8837388 ] } },
+{ "type": "Feature", "properties": { "id": 11537292361, "name": "Thôn Song Khê - Xã Tam Hưng", "index_right": 175, "district": "Xã Tam Hưng" }, "geometry": { "type": "Point", "coordinates": [ 105.7899561, 20.8841518 ] } },
+{ "type": "Feature", "properties": { "id": 11537292362, "name": "Đường vào thôn Bùi Xá", "index_right": 175, "district": "Xã Tam Hưng" }, "geometry": { "type": "Point", "coordinates": [ 105.8019701, 20.8731984 ] } },
+{ "type": "Feature", "properties": { "id": 11537292363, "name": "Đối diện THCS Thanh Thùy", "index_right": 175, "district": "Xã Tam Hưng" }, "geometry": { "type": "Point", "coordinates": [ 105.8053047, 20.871001 ] } },
+{ "type": "Feature", "properties": { "id": 11537292364, "name": "Trường Mầm Non Thanh Thùy", "index_right": 175, "district": "Xã Tam Hưng" }, "geometry": { "type": "Point", "coordinates": [ 105.8107233, 20.8678756 ] } },
+{ "type": "Feature", "properties": { "id": 11537292365, "name": "Cửa hàng đồ Gỗ Mỹ Nghệ Duy Bắc Làng Túc", "index_right": 175, "district": "Xã Tam Hưng" }, "geometry": { "type": "Point", "coordinates": [ 105.820366, 20.8697237 ] } },
+{ "type": "Feature", "properties": { "id": 11549840981, "name": "Qua đường đình, thôn Dụ Tiền khoảng 50m", "index_right": 175, "district": "Xã Tam Hưng" }, "geometry": { "type": "Point", "coordinates": [ 105.8126977, 20.8630738 ] } },
+{ "type": "Feature", "properties": { "id": 11549840982, "name": "Đối diện Nhà văn hóa thôn Tam Đa", "index_right": 175, "district": "Xã Tam Hưng" }, "geometry": { "type": "Point", "coordinates": [ 105.8126299, 20.8555982 ] } },
+{ "type": "Feature", "properties": { "id": 11549840983, "name": "Giếng cổ xóm 3 thôn Bạch Nao", "index_right": 175, "district": "Xã Tam Hưng" }, "geometry": { "type": "Point", "coordinates": [ 105.812291, 20.8506778 ] } },
+{ "type": "Feature", "properties": { "id": 11549841030, "name": "Trung tâm điện máy Điền Ngân", "index_right": 175, "district": "Xã Tam Hưng" }, "geometry": { "type": "Point", "coordinates": [ 105.8121564, 20.8503513 ] } },
+{ "type": "Feature", "properties": { "id": 11549841031, "name": "Nhà văn hóa thôn Tam Đa", "index_right": 175, "district": "Xã Tam Hưng" }, "geometry": { "type": "Point", "coordinates": [ 105.8127156, 20.8554461 ] } },
+{ "type": "Feature", "properties": { "id": 11549841032, "name": "Đường đình, thôn Dụ Tiền khoảng 50m", "index_right": 175, "district": "Xã Tam Hưng" }, "geometry": { "type": "Point", "coordinates": [ 105.812619, 20.8648311 ] } }
+]
+}

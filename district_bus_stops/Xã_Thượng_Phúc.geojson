@@ -1,0 +1,25 @@
+{
+"type": "FeatureCollection",
+"name": "Xã_Thượng_Phúc",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 9024366573, "name": "Đối diện công ty PTXD Hoàng Long - Quốc Lộ 1A", "index_right": 99, "district": "Xã Thượng Phúc" }, "geometry": { "type": "Point", "coordinates": [ 105.8702125, 20.8540045 ] } },
+{ "type": "Feature", "properties": { "id": 9024366574, "name": "Cách công ty PTXD Hoàng Long 50m - Quốc Lộ 1A", "index_right": 99, "district": "Xã Thượng Phúc" }, "geometry": { "type": "Point", "coordinates": [ 105.8703406, 20.8538679 ] } },
+{ "type": "Feature", "properties": { "id": 9024366575, "name": "Cửa hàng điện thoại di động Minh Thanh - Quốc Lộ 1A", "index_right": 99, "district": "Xã Thượng Phúc" }, "geometry": { "type": "Point", "coordinates": [ 105.8727839, 20.8426862 ] } },
+{ "type": "Feature", "properties": { "id": 9024366576, "name": "Cửa hàng Thanh Hưởng (Đạm - Lân - Kali) - Quốc Lộ 1A", "index_right": 99, "district": "Xã Thượng Phúc" }, "geometry": { "type": "Point", "coordinates": [ 105.8729614, 20.8426083 ] } },
+{ "type": "Feature", "properties": { "id": 9100359352, "name": "Đối diện cột mốc Km5 - TL 429", "index_right": 99, "district": "Xã Thượng Phúc" }, "geometry": { "type": "Point", "coordinates": [ 105.8611846, 20.8015451 ] } },
+{ "type": "Feature", "properties": { "id": 9100359353, "name": "Gần mốc Km5 - TL 429", "index_right": 99, "district": "Xã Thượng Phúc" }, "geometry": { "type": "Point", "coordinates": [ 105.8608649, 20.8011966 ] } },
+{ "type": "Feature", "properties": { "id": 11680376021, "name": "Đường vào làng nghề Thêu Cổ Chất", "index_right": 99, "district": "Xã Thượng Phúc" }, "geometry": { "type": "Point", "coordinates": [ 105.8647062, 20.8223303 ] } },
+{ "type": "Feature", "properties": { "id": 11680376022, "name": "Nghĩa trang liệt sỹ xã Dũng Tiến", "index_right": 99, "district": "Xã Thượng Phúc" }, "geometry": { "type": "Point", "coordinates": [ 105.8589229, 20.8205618 ] } },
+{ "type": "Feature", "properties": { "id": 11680376023, "name": "Sân bóng trường cấp 1,2 xã Dũng Tiến", "index_right": 99, "district": "Xã Thượng Phúc" }, "geometry": { "type": "Point", "coordinates": [ 105.8555811, 20.8162317 ] } },
+{ "type": "Feature", "properties": { "id": 11680376024, "name": "Nghĩa trang liệt sĩ xã Nghiêm Xuyên", "index_right": 99, "district": "Xã Thượng Phúc" }, "geometry": { "type": "Point", "coordinates": [ 105.8542086, 20.8097273 ] } },
+{ "type": "Feature", "properties": { "id": 11680376025, "name": "Đối diện UBND xã Nghiêm Xuyên", "index_right": 99, "district": "Xã Thượng Phúc" }, "geometry": { "type": "Point", "coordinates": [ 105.8542862, 20.8039859 ] } },
+{ "type": "Feature", "properties": { "id": 11680376026, "name": "UBND xã Nghiêm Xuyên", "index_right": 99, "district": "Xã Thượng Phúc" }, "geometry": { "type": "Point", "coordinates": [ 105.8540878, 20.8041266 ] } },
+{ "type": "Feature", "properties": { "id": 11680376028, "name": "Quầy thuốc Xuân Phúc, xóm Bùng, Ba Lăng", "index_right": 99, "district": "Xã Thượng Phúc" }, "geometry": { "type": "Point", "coordinates": [ 105.8556131, 20.8163769 ] } },
+{ "type": "Feature", "properties": { "id": 11680376029, "name": "Đối diện Nghĩa trang liệt sỹ xã Dũng Tiến", "index_right": 99, "district": "Xã Thượng Phúc" }, "geometry": { "type": "Point", "coordinates": [ 105.8590605, 20.8206671 ] } },
+{ "type": "Feature", "properties": { "id": 11680376030, "name": "Cổng làng nghề Thêu truyền thống Đông Cứu", "index_right": 99, "district": "Xã Thượng Phúc" }, "geometry": { "type": "Point", "coordinates": [ 105.8644095, 20.8221926 ] } },
+{ "type": "Feature", "properties": { "id": 12206582479, "name": "Sân bóng xã Nghiêm Xuyên", "index_right": 99, "district": "Xã Thượng Phúc" }, "geometry": { "type": "Point", "coordinates": [ 105.8542366, 20.8096405 ] } },
+{ "type": "Feature", "properties": { "id": 13159384051, "name": "Thôn Lưu Xá, đường vào chùa Đậu QL1A", "index_right": 99, "district": "Xã Thượng Phúc" }, "geometry": { "type": "Point", "coordinates": [ 105.87445, 20.8363155 ] } },
+{ "type": "Feature", "properties": { "id": 13159384052, "name": "Đối diện thôn Lưu Xá, đường vào chùa Đậu QL1A", "index_right": 99, "district": "Xã Thượng Phúc" }, "geometry": { "type": "Point", "coordinates": [ 105.8744579, 20.836716 ] } }
+]
+}

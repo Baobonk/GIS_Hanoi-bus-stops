@@ -1,0 +1,27 @@
+{
+"type": "FeatureCollection",
+"name": "Xã_Sơn_Đồng",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 8808907349, "name": "Đối diện Thiên đường Bảo Sơn", "index_right": 119, "district": "Xã Sơn Đồng" }, "geometry": { "type": "Point", "coordinates": [ 105.7286567, 21.0112271 ] } },
+{ "type": "Feature", "properties": { "id": 8808907350, "name": "Qua lối rẽ vào UBND xã An Khánh", "index_right": 119, "district": "Xã Sơn Đồng" }, "geometry": { "type": "Point", "coordinates": [ 105.7193315, 21.0117137 ] } },
+{ "type": "Feature", "properties": { "id": 8808907351, "name": "Chùa Bà - An Khánh", "index_right": 119, "district": "Xã Sơn Đồng" }, "geometry": { "type": "Point", "coordinates": [ 105.7108572, 21.0106304 ] } },
+{ "type": "Feature", "properties": { "id": 8808907361, "name": "Trước 50m lối vào UBND huyện Hoài Đức", "index_right": 119, "district": "Xã Sơn Đồng" }, "geometry": { "type": "Point", "coordinates": [ 105.7002118, 21.0081459 ] } },
+{ "type": "Feature", "properties": { "id": 8865361277, "name": "Đối diện Trường THPT Hoài Đức A", "index_right": 119, "district": "Xã Sơn Đồng" }, "geometry": { "type": "Point", "coordinates": [ 105.7040207, 21.050014 ] } },
+{ "type": "Feature", "properties": { "id": 8865361282, "name": "Qua 30m đối diện trường Mầm non Vân Canh", "index_right": 119, "district": "Xã Sơn Đồng" }, "geometry": { "type": "Point", "coordinates": [ 105.727032, 21.0390984 ] } },
+{ "type": "Feature", "properties": { "id": 8865361283, "name": "Đài tưởng niệm Vân Canh", "index_right": 119, "district": "Xã Sơn Đồng" }, "geometry": { "type": "Point", "coordinates": [ 105.7300315, 21.0365855 ] } },
+{ "type": "Feature", "properties": { "id": 8865361284, "name": "Đối diện Trường THCS Vân Canh", "index_right": 119, "district": "Xã Sơn Đồng" }, "geometry": { "type": "Point", "coordinates": [ 105.7342124, 21.0351001 ] } },
+{ "type": "Feature", "properties": { "id": 8865361285, "name": "Qua 30m cổng làng An Trai", "index_right": 119, "district": "Xã Sơn Đồng" }, "geometry": { "type": "Point", "coordinates": [ 105.7354514, 21.0348506 ] } },
+{ "type": "Feature", "properties": { "id": 8865361313, "name": "Đối diện Bưu điện Vân Canh", "index_right": 119, "district": "Xã Sơn Đồng" }, "geometry": { "type": "Point", "coordinates": [ 105.7382139, 21.0356641 ] } },
+{ "type": "Feature", "properties": { "id": 8865361314, "name": "Đối diện cổng làng An Trai", "index_right": 119, "district": "Xã Sơn Đồng" }, "geometry": { "type": "Point", "coordinates": [ 105.7351326, 21.0349938 ] } },
+{ "type": "Feature", "properties": { "id": 8865361315, "name": "Trường THCS Vân Canh", "index_right": 119, "district": "Xã Sơn Đồng" }, "geometry": { "type": "Point", "coordinates": [ 105.7331019, 21.0353522 ] } },
+{ "type": "Feature", "properties": { "id": 8865361316, "name": "Đối diện Đài tưởng niệm Vân Canh", "index_right": 119, "district": "Xã Sơn Đồng" }, "geometry": { "type": "Point", "coordinates": [ 105.7295642, 21.0372109 ] } },
+{ "type": "Feature", "properties": { "id": 8865385017, "name": "Trước Kiot 01 Hậu Ái", "index_right": 119, "district": "Xã Sơn Đồng" }, "geometry": { "type": "Point", "coordinates": [ 105.7260146, 21.0399075 ] } },
+{ "type": "Feature", "properties": { "id": 8865385021, "name": "Trước ngã tư Sơn Đồng 100m", "index_right": 119, "district": "Xã Sơn Đồng" }, "geometry": { "type": "Point", "coordinates": [ 105.7047614, 21.0472257 ] } },
+{ "type": "Feature", "properties": { "id": 8903312058, "name": "Khu đô thị An Lạc (Hoài Đức)", "index_right": 119, "district": "Xã Sơn Đồng" }, "geometry": { "type": "Point", "coordinates": [ 105.7330919, 21.0258866 ] } },
+{ "type": "Feature", "properties": { "id": 8945948099, "name": "Đông y dược Bảo Long", "index_right": 119, "district": "Xã Sơn Đồng" }, "geometry": { "type": "Point", "coordinates": [ 105.713693, 21.0112006 ] } },
+{ "type": "Feature", "properties": { "id": 8958629913, "name": "Số 67 ngã 4 Sơn Đồng", "index_right": 119, "district": "Xã Sơn Đồng" }, "geometry": { "type": "Point", "coordinates": [ 105.7022324, 21.0473904 ] } },
+{ "type": "Feature", "properties": { "id": 8959298037, "name": "Số 62 thôn Rô - Sơn Đồng", "index_right": 119, "district": "Xã Sơn Đồng" }, "geometry": { "type": "Point", "coordinates": [ 105.7025512, 21.0473953 ] } },
+{ "type": "Feature", "properties": { "id": 9013469844, "name": "Tòa nhà CH103 đường nội bộ Khu đô thị Splendora", "index_right": 119, "district": "Xã Sơn Đồng" }, "geometry": { "type": "Point", "coordinates": [ 105.7234713, 21.0156897 ] } }
+]
+}

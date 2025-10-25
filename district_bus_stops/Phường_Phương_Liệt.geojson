@@ -1,0 +1,33 @@
+{
+"type": "FeatureCollection",
+"name": "Phường_Phương_Liệt",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 738813232, "name": "196 Giải Phóng - Ngân hàng Nông nghiệp & PTNT Chi nhánh Nam Hà Nội", "index_right": 53, "district": "Phường Phương Liệt" }, "geometry": { "type": "Point", "coordinates": [ 105.8410719, 20.993161 ] } },
+{ "type": "Feature", "properties": { "id": 738815019, "name": "150 Lê Trọng Tấn", "index_right": 53, "district": "Phường Phương Liệt" }, "geometry": { "type": "Point", "coordinates": [ 105.8300567, 20.9961254 ] } },
+{ "type": "Feature", "properties": { "id": 738815643, "name": "Trước tòa nhà Artemis - Đường Tôn Thất Tùng kéo dài", "index_right": 53, "district": "Phường Phương Liệt" }, "geometry": { "type": "Point", "coordinates": [ 105.8286676, 20.9995948 ] } },
+{ "type": "Feature", "properties": { "id": 4893056431, "name": "Kiosk số 7 nhà CT.6 - ĐN 2 Định Công", "index_right": 53, "district": "Phường Phương Liệt" }, "geometry": { "type": "Point", "coordinates": [ 105.8305702, 20.9900324 ] } },
+{ "type": "Feature", "properties": { "id": 8813408793, "name": "223-225 Trường Chinh", "index_right": 53, "district": "Phường Phương Liệt" }, "geometry": { "type": "Point", "coordinates": [ 105.8257968, 21.0014217 ] } },
+{ "type": "Feature", "properties": { "id": 8813408794, "name": "Đối diện 196 Trường Chinh", "index_right": 53, "district": "Phường Phương Liệt" }, "geometry": { "type": "Point", "coordinates": [ 105.8300238, 21.0001322 ] } },
+{ "type": "Feature", "properties": { "id": 8813408795, "name": "83A Trường Chinh", "index_right": 53, "district": "Phường Phương Liệt" }, "geometry": { "type": "Point", "coordinates": [ 105.8382821, 20.998274 ] } },
+{ "type": "Feature", "properties": { "id": 8813408796, "name": "352 Giải Phóng", "index_right": 53, "district": "Phường Phương Liệt" }, "geometry": { "type": "Point", "coordinates": [ 105.8409738, 20.9876293 ] } },
+{ "type": "Feature", "properties": { "id": 8813408797, "name": "Đối diện 807 Giải Phóng", "index_right": 53, "district": "Phường Phương Liệt" }, "geometry": { "type": "Point", "coordinates": [ 105.8408987, 20.9843418 ] } },
+{ "type": "Feature", "properties": { "id": 8853934327, "name": "Nhà công vụ QC PKKQ - 210 Lê Trọng Tấn", "index_right": 53, "district": "Phường Phương Liệt" }, "geometry": { "type": "Point", "coordinates": [ 105.8321084, 20.9928294 ] } },
+{ "type": "Feature", "properties": { "id": 8853934328, "name": "Đối diện siêu thị ACE Mart - Định Công", "index_right": 53, "district": "Phường Phương Liệt" }, "geometry": { "type": "Point", "coordinates": [ 105.8302704, 20.9894358 ] } },
+{ "type": "Feature", "properties": { "id": 8853934329, "name": "Công viên Định Công", "index_right": 53, "district": "Phường Phương Liệt" }, "geometry": { "type": "Point", "coordinates": [ 105.8322581, 20.9869445 ] } },
+{ "type": "Feature", "properties": { "id": 8853934330, "name": "Đối diện Chợ Xanh Định Công", "index_right": 53, "district": "Phường Phương Liệt" }, "geometry": { "type": "Point", "coordinates": [ 105.8335332, 20.9846681 ] } },
+{ "type": "Feature", "properties": { "id": 8856174807, "name": "Tòa chung cư 96A Phố Định Công", "index_right": 53, "district": "Phường Phương Liệt" }, "geometry": { "type": "Point", "coordinates": [ 105.8388906, 20.9845602 ] } },
+{ "type": "Feature", "properties": { "id": 8856174808, "name": "Trạm biến áp số 9 Định Công", "index_right": 53, "district": "Phường Phương Liệt" }, "geometry": { "type": "Point", "coordinates": [ 105.8335506, 20.9856752 ] } },
+{ "type": "Feature", "properties": { "id": 8856174809, "name": "Đối diện trạm cấp nước sạch Định Công - 61 Tổ 37 Định Công", "index_right": 53, "district": "Phường Phương Liệt" }, "geometry": { "type": "Point", "coordinates": [ 105.831662, 20.9876633 ] } },
+{ "type": "Feature", "properties": { "id": 8856174810, "name": "Đối diện 210 Lê Trọng Tấn", "index_right": 53, "district": "Phường Phương Liệt" }, "geometry": { "type": "Point", "coordinates": [ 105.8324706, 20.9924663 ] } },
+{ "type": "Feature", "properties": { "id": 8856174811, "name": "Đối diện 158 Lê Trọng Tấn", "index_right": 53, "district": "Phường Phương Liệt" }, "geometry": { "type": "Point", "coordinates": [ 105.8303427, 20.9959079 ] } },
+{ "type": "Feature", "properties": { "id": 8856174812, "name": "Cạnh hàng rào Bảo tàng Không Quân - Đường Tôn Thất Tùng kéo dài", "index_right": 53, "district": "Phường Phương Liệt" }, "geometry": { "type": "Point", "coordinates": [ 105.8289037, 20.9998554 ] } },
+{ "type": "Feature", "properties": { "id": 9342635860, "name": "Trước số nhà 89 Vương Thừa Vũ", "index_right": 53, "district": "Phường Phương Liệt" }, "geometry": { "type": "Point", "coordinates": [ 105.821904, 20.9993211 ] } },
+{ "type": "Feature", "properties": { "id": 9342635861, "name": "131 Hoàng Văn Thái", "index_right": 53, "district": "Phường Phương Liệt" }, "geometry": { "type": "Point", "coordinates": [ 105.8243614, 20.9970256 ] } },
+{ "type": "Feature", "properties": { "id": 9342635862, "name": "Trung tâm Thể thao Văn hóa Viện Phòng không Không quân", "index_right": 53, "district": "Phường Phương Liệt" }, "geometry": { "type": "Point", "coordinates": [ 105.8242552, 20.9971517 ] } },
+{ "type": "Feature", "properties": { "id": 9342635863, "name": "CT36 Tower", "index_right": 53, "district": "Phường Phương Liệt" }, "geometry": { "type": "Point", "coordinates": [ 105.8349701, 20.9882117 ] } },
+{ "type": "Feature", "properties": { "id": 9342635864, "name": "Học Viện Khoa Học Quân Sự", "index_right": 53, "district": "Phường Phương Liệt" }, "geometry": { "type": "Point", "coordinates": [ 105.8349894, 20.9885142 ] } },
+{ "type": "Feature", "properties": { "id": 9342635865, "name": "Trước Kiot 10A tòa CT9 - KĐT Định Công", "index_right": 53, "district": "Phường Phương Liệt" }, "geometry": { "type": "Point", "coordinates": [ 105.8345023, 20.9854993 ] } },
+{ "type": "Feature", "properties": { "id": 9342635866, "name": "Nhà 60 Ngõ 238 Lê Trọng Tấn", "index_right": 53, "district": "Phường Phương Liệt" }, "geometry": { "type": "Point", "coordinates": [ 105.834649, 20.9858106 ] } }
+]
+}

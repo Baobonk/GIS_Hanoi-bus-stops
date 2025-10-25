@@ -1,0 +1,19 @@
+{
+"type": "FeatureCollection",
+"name": "Xã_Chương_Dương",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 9024366577, "name": "Đông Y Phúc Kiên (Chợ Cầu) - Quốc Lộ 1A", "index_right": 100, "district": "Xã Chương Dương" }, "geometry": { "type": "Point", "coordinates": [ 105.8777083, 20.8307435 ] } },
+{ "type": "Feature", "properties": { "id": 9024366578, "name": "Cửa hàng Nokia Chợ Cầu - Quốc Lộ 1A", "index_right": 100, "district": "Xã Chương Dương" }, "geometry": { "type": "Point", "coordinates": [ 105.878154, 20.8301524 ] } },
+{ "type": "Feature", "properties": { "id": 9024366579, "name": "Qua đường vào xưởng thêu tay - Quốc lộ 1A", "index_right": 100, "district": "Xã Chương Dương" }, "geometry": { "type": "Point", "coordinates": [ 105.8818484, 20.8233919 ] } },
+{ "type": "Feature", "properties": { "id": 9024366580, "name": "Cửa hàng xăng dầu xã Thắng Lợi - Quốc Lộ 1A", "index_right": 100, "district": "Xã Chương Dương" }, "geometry": { "type": "Point", "coordinates": [ 105.8822854, 20.82288 ] } },
+{ "type": "Feature", "properties": { "id": 9024366581, "name": "Giữa số nhà 37-39 phố Tía - Quốc Lộ 1A", "index_right": 100, "district": "Xã Chương Dương" }, "geometry": { "type": "Point", "coordinates": [ 105.8839156, 20.8063493 ] } },
+{ "type": "Feature", "properties": { "id": 9024366582, "name": "Số 78 Phố Tía - Km199+990 - Quốc Lộ 1A", "index_right": 100, "district": "Xã Chương Dương" }, "geometry": { "type": "Point", "coordinates": [ 105.8840483, 20.8064614 ] } },
+{ "type": "Feature", "properties": { "id": 9032499803, "name": "Đối diện Trường mầm non tư thục Bình Minh - TL 427", "index_right": 100, "district": "Xã Chương Dương" }, "geometry": { "type": "Point", "coordinates": [ 105.9035851, 20.8684455 ] } },
+{ "type": "Feature", "properties": { "id": 9100359350, "name": "Nhà văn hoá khu dân cư Phố Tía - TL 429", "index_right": 100, "district": "Xã Chương Dương" }, "geometry": { "type": "Point", "coordinates": [ 105.8821753, 20.8037231 ] } },
+{ "type": "Feature", "properties": { "id": 9100359351, "name": "Nhà văn hoá thôn Tử Dương - TL 429", "index_right": 100, "district": "Xã Chương Dương" }, "geometry": { "type": "Point", "coordinates": [ 105.881767, 20.8037661 ] } },
+{ "type": "Feature", "properties": { "id": 11680376020, "name": "Đối diện 85 Một Thượng", "index_right": 100, "district": "Xã Chương Dương" }, "geometry": { "type": "Point", "coordinates": [ 105.8788858, 20.8232097 ] } },
+{ "type": "Feature", "properties": { "id": 11680376031, "name": "101 Một Thượng", "index_right": 100, "district": "Xã Chương Dương" }, "geometry": { "type": "Point", "coordinates": [ 105.8785647, 20.8230778 ] } },
+{ "type": "Feature", "properties": { "id": 12077799923, "name": "Đội 1 Vĩnh Lọc - Thư Phú - Thường Tín", "index_right": 100, "district": "Xã Chương Dương" }, "geometry": { "type": "Point", "coordinates": [ 105.9098381, 20.8674952 ] } }
+]
+}

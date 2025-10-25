@@ -1,0 +1,26 @@
+{
+"type": "FeatureCollection",
+"name": "Xã_Hồng_Vân",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 9024366572, "name": "Qua BX Thường Tín 50m - Quốc Lộ 1A", "index_right": 124, "district": "Xã Hồng Vân" }, "geometry": { "type": "Point", "coordinates": [ 105.8670115, 20.8636074 ] } },
+{ "type": "Feature", "properties": { "id": 9032499797, "name": "Qua Siêu thị Lanchi Mart 100m - cạnh cột mốc H1/13 - TL 427", "index_right": 124, "district": "Xã Hồng Vân" }, "geometry": { "type": "Point", "coordinates": [ 105.8759621, 20.8707505 ] } },
+{ "type": "Feature", "properties": { "id": 9032499798, "name": "Cạnh cửa hàng đồ gỗ Điệp Trang (đối diện cột mốc H1/14) - TL 427", "index_right": 124, "district": "Xã Hồng Vân" }, "geometry": { "type": "Point", "coordinates": [ 105.8841519, 20.8691797 ] } },
+{ "type": "Feature", "properties": { "id": 9032499799, "name": "Công ty CP đầu tư liên doanh Việt Anh (trước 100m cổng làng Phương Quế) - TL 427", "index_right": 124, "district": "Xã Hồng Vân" }, "geometry": { "type": "Point", "coordinates": [ 105.8846102, 20.8692168 ] } },
+{ "type": "Feature", "properties": { "id": 9032499800, "name": "Trước nhà 70 - 72 Thôn Vân Hoà Xã Vân Tảo (Đường 71) - TL 427", "index_right": 124, "district": "Xã Hồng Vân" }, "geometry": { "type": "Point", "coordinates": [ 105.8947375, 20.8670133 ] } },
+{ "type": "Feature", "properties": { "id": 9032499801, "name": "Qua 100m cổng làng Nỏ Bạn - TL 427", "index_right": 124, "district": "Xã Hồng Vân" }, "geometry": { "type": "Point", "coordinates": [ 105.8949093, 20.8671523 ] } },
+{ "type": "Feature", "properties": { "id": 9032499802, "name": "Qua 100m đường vào Đoàn Công Binh H39 - TL 427", "index_right": 124, "district": "Xã Hồng Vân" }, "geometry": { "type": "Point", "coordinates": [ 105.9013319, 20.8682524 ] } },
+{ "type": "Feature", "properties": { "id": 9032499804, "name": "Điểm cuối Hồng Vân (cũ)", "index_right": 124, "district": "Xã Hồng Vân" }, "geometry": { "type": "Point", "coordinates": [ 105.9124426, 20.867212 ] } },
+{ "type": "Feature", "properties": { "id": 11519318246, "name": "UBND xã Duyên Thái", "index_right": 124, "district": "Xã Hồng Vân" }, "geometry": { "type": "Point", "coordinates": [ 105.8658054, 20.9015782 ] } },
+{ "type": "Feature", "properties": { "id": 12077799924, "name": "Đường vào xã Tự Nhiên cụm dân cư số 9", "index_right": 124, "district": "Xã Hồng Vân" }, "geometry": { "type": "Point", "coordinates": [ 105.9091248, 20.8678191 ] } },
+{ "type": "Feature", "properties": { "id": 12304576321, "name": "Nghĩa trang Ninh Xá", "index_right": 124, "district": "Xã Hồng Vân" }, "geometry": { "type": "Point", "coordinates": [ 105.8783121, 20.9102178 ] } },
+{ "type": "Feature", "properties": { "id": 12304576322, "name": "Ngã ba Đồng Tâm", "index_right": 124, "district": "Xã Hồng Vân" }, "geometry": { "type": "Point", "coordinates": [ 105.8815037, 20.909454 ] } },
+{ "type": "Feature", "properties": { "id": 12304576323, "name": "Trường Tiểu học Vạn Phúc 2", "index_right": 124, "district": "Xã Hồng Vân" }, "geometry": { "type": "Point", "coordinates": [ 105.8851456, 20.9086612 ] } },
+{ "type": "Feature", "properties": { "id": 12579123788, "name": "Trường THPT Vân Tảo", "index_right": 124, "district": "Xã Hồng Vân" }, "geometry": { "type": "Point", "coordinates": [ 105.8904677, 20.8673213 ] } },
+{ "type": "Feature", "properties": { "id": 12579123789, "name": "Đối diện Trường THPT Vân Tảo", "index_right": 124, "district": "Xã Hồng Vân" }, "geometry": { "type": "Point", "coordinates": [ 105.8900695, 20.8676529 ] } },
+{ "type": "Feature", "properties": { "id": 12717509077, "name": "Đối diện điểm cuối Hồng Vân (cũ)", "index_right": 124, "district": "Xã Hồng Vân" }, "geometry": { "type": "Point", "coordinates": [ 105.9124982, 20.8670631 ] } },
+{ "type": "Feature", "properties": { "id": 12717509078, "name": "Đối diện Đình làng Vân La Thượng", "index_right": 124, "district": "Xã Hồng Vân" }, "geometry": { "type": "Point", "coordinates": [ 105.9168596, 20.8726639 ] } },
+{ "type": "Feature", "properties": { "id": 12717509079, "name": "Hồng Vân (Thường Tín) - Tuyến 6B", "index_right": 124, "district": "Xã Hồng Vân" }, "geometry": { "type": "Point", "coordinates": [ 105.9162733, 20.8773676 ] } },
+{ "type": "Feature", "properties": { "id": 12717509080, "name": "Đình làng Vân La Thượng", "index_right": 124, "district": "Xã Hồng Vân" }, "geometry": { "type": "Point", "coordinates": [ 105.9167699, 20.872645 ] } }
+]
+}

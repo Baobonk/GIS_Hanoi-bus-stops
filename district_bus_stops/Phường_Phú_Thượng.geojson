@@ -1,0 +1,27 @@
+{
+"type": "FeatureCollection",
+"name": "Phường_Phú_Thượng",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 738813639, "name": "Trạm Xe Bus Số 31", "index_right": 65, "district": "Phường Phú Thượng" }, "geometry": { "type": "Point", "coordinates": [ 105.7912374, 21.0899257 ] } },
+{ "type": "Feature", "properties": { "id": 738814549, "name": "Trạm Xe Bus Số 31", "index_right": 65, "district": "Phường Phú Thượng" }, "geometry": { "type": "Point", "coordinates": [ 105.7918529, 21.0903149 ] } },
+{ "type": "Feature", "properties": { "id": 738815720, "name": "Trạm Xe Bus 31, 58", "index_right": 65, "district": "Phường Phú Thượng" }, "geometry": { "type": "Point", "coordinates": [ 105.7956791, 21.0893451 ] } },
+{ "type": "Feature", "properties": { "id": 8807115909, "name": "Đối diện ngõ 689 Lạc Long Quân", "index_right": 65, "district": "Phường Phú Thượng" }, "geometry": { "type": "Point", "coordinates": [ 105.8128132, 21.0790119 ] } },
+{ "type": "Feature", "properties": { "id": 8807115910, "name": "CT13B Khu đô thị Nam Thăng Long", "index_right": 65, "district": "Phường Phú Thượng" }, "geometry": { "type": "Point", "coordinates": [ 105.8105563, 21.0747338 ] } },
+{ "type": "Feature", "properties": { "id": 8807115911, "name": "Phòng Cảnh sát Phòng cháy chữa cháy", "index_right": 65, "district": "Phường Phú Thượng" }, "geometry": { "type": "Point", "coordinates": [ 105.8095658, 21.072396 ] } },
+{ "type": "Feature", "properties": { "id": 8822946787, "name": "Trạm Thú y Tây Hồ 197 An Dương Vương", "index_right": 65, "district": "Phường Phú Thượng" }, "geometry": { "type": "Point", "coordinates": [ 105.811598, 21.0900728 ] } },
+{ "type": "Feature", "properties": { "id": 8822946788, "name": "Đối diện UBND Phường Phú Thượng", "index_right": 65, "district": "Phường Phú Thượng" }, "geometry": { "type": "Point", "coordinates": [ 105.8078668, 21.0898784 ] } },
+{ "type": "Feature", "properties": { "id": 8822946789, "name": "Đối diện 327 An Dương Vương", "index_right": 65, "district": "Phường Phú Thượng" }, "geometry": { "type": "Point", "coordinates": [ 105.8028131, 21.0897476 ] } },
+{ "type": "Feature", "properties": { "id": 8822946790, "name": "Làng Thượng Thụy", "index_right": 65, "district": "Phường Phú Thượng" }, "geometry": { "type": "Point", "coordinates": [ 105.797044, 21.0894489 ] } },
+{ "type": "Feature", "properties": { "id": 8822946791, "name": "Đình Nhật Tảo", "index_right": 65, "district": "Phường Phú Thượng" }, "geometry": { "type": "Point", "coordinates": [ 105.7890502, 21.0907882 ] } },
+{ "type": "Feature", "properties": { "id": 8822946803, "name": "Đình Nhật Tảo", "index_right": 65, "district": "Phường Phú Thượng" }, "geometry": { "type": "Point", "coordinates": [ 105.7890263, 21.0905919 ] } },
+{ "type": "Feature", "properties": { "id": 8822946804, "name": "Làng Thượng Thụy", "index_right": 65, "district": "Phường Phú Thượng" }, "geometry": { "type": "Point", "coordinates": [ 105.7970645, 21.0892251 ] } },
+{ "type": "Feature", "properties": { "id": 8822946805, "name": "327-329 An Dương Vương", "index_right": 65, "district": "Phường Phú Thượng" }, "geometry": { "type": "Point", "coordinates": [ 105.8028474, 21.0895622 ] } },
+{ "type": "Feature", "properties": { "id": 8822946806, "name": "UBND phường Phú Thượng", "index_right": 65, "district": "Phường Phú Thượng" }, "geometry": { "type": "Point", "coordinates": [ 105.8076045, 21.0896998 ] } },
+{ "type": "Feature", "properties": { "id": 8822946807, "name": "197 An Dương Vương", "index_right": 65, "district": "Phường Phú Thượng" }, "geometry": { "type": "Point", "coordinates": [ 105.8115767, 21.0898712 ] } },
+{ "type": "Feature", "properties": { "id": 8822946808, "name": "Đối diện ngõ 58 An Dương Vương", "index_right": 65, "district": "Phường Phú Thượng" }, "geometry": { "type": "Point", "coordinates": [ 105.8156503, 21.086874 ] } },
+{ "type": "Feature", "properties": { "id": 8852120921, "name": "Cổng vào KĐT Ciputra (Đối diện 83 Nguyễn Hoàng Tôn)", "index_right": 65, "district": "Phường Phú Thượng" }, "geometry": { "type": "Point", "coordinates": [ 105.8081013, 21.0708387 ] } },
+{ "type": "Feature", "properties": { "id": 8852120922, "name": "333-335 Nguyễn Hoàng Tôn", "index_right": 65, "district": "Phường Phú Thượng" }, "geometry": { "type": "Point", "coordinates": [ 105.8009792, 21.0735052 ] } },
+{ "type": "Feature", "properties": { "id": 8852120924, "name": "721 Nguyễn Hoàng Tôn", "index_right": 65, "district": "Phường Phú Thượng" }, "geometry": { "type": "Point", "coordinates": [ 105.7905392, 21.0775366 ] } }
+]
+}

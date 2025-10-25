@@ -1,0 +1,25 @@
+{
+"type": "FeatureCollection",
+"name": "Phường_Văn_Miếu_-_Quốc_Tử_Giám",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 446044131, "name": "398 Xã Đàn", "index_right": 41, "district": "Phường Văn Miếu - Quốc Tử Giám" }, "geometry": { "type": "Point", "coordinates": [ 105.8335494, 21.0151175 ] } },
+{ "type": "Feature", "properties": { "id": 446044145, "name": "Trạm Biến áp Hàng Bột 1 - 107 Tôn Đức Thắng", "index_right": 41, "district": "Phường Văn Miếu - Quốc Tử Giám" }, "geometry": { "type": "Point", "coordinates": [ 105.8326316, 21.0241049 ] } },
+{ "type": "Feature", "properties": { "id": 738813348, "name": "274-276 Khâm Thiên", "index_right": 41, "district": "Phường Văn Miếu - Quốc Tử Giám" }, "geometry": { "type": "Point", "coordinates": [ 105.8342961, 21.0193304 ] } },
+{ "type": "Feature", "properties": { "id": 738813572, "name": "Đối diện số 40 Tôn Đức Thắng (Văn Miếu)", "index_right": 41, "district": "Phường Văn Miếu - Quốc Tử Giám" }, "geometry": { "type": "Point", "coordinates": [ 105.8348887, 21.0285931 ] } },
+{ "type": "Feature", "properties": { "id": 738813665, "name": "221A-221B Khâm Thiên (Đối diện 302)", "index_right": 41, "district": "Phường Văn Miếu - Quốc Tử Giám" }, "geometry": { "type": "Point", "coordinates": [ 105.8335213, 21.0192522 ] } },
+{ "type": "Feature", "properties": { "id": 738813877, "name": "Đài tưởng niệm Khâm Thiên - 45 Khâm Thiên", "index_right": 41, "district": "Phường Văn Miếu - Quốc Tử Giám" }, "geometry": { "type": "Point", "coordinates": [ 105.8385429, 21.0189117 ] } },
+{ "type": "Feature", "properties": { "id": 738813973, "name": "283 Tôn Đức Thắng", "index_right": 41, "district": "Phường Văn Miếu - Quốc Tử Giám" }, "geometry": { "type": "Point", "coordinates": [ 105.8307557, 21.0199968 ] } },
+{ "type": "Feature", "properties": { "id": 738814465, "name": "Tổng công ty Đường sắt Việt Nam - 116 Lê Duẩn", "index_right": 41, "district": "Phường Văn Miếu - Quốc Tử Giám" }, "geometry": { "type": "Point", "coordinates": [ 105.8414684, 21.0257339 ] } },
+{ "type": "Feature", "properties": { "id": 738815268, "name": "85 Nguyễn Thái Học - Trường Tiểu học Lý Thường Kiệt", "index_right": 41, "district": "Phường Văn Miếu - Quốc Tử Giám" }, "geometry": { "type": "Point", "coordinates": [ 105.8389492, 21.0295303 ] } },
+{ "type": "Feature", "properties": { "id": 738815423, "name": "44-46 Khâm Thiên", "index_right": 41, "district": "Phường Văn Miếu - Quốc Tử Giám" }, "geometry": { "type": "Point", "coordinates": [ 105.8388661, 21.0190184 ] } },
+{ "type": "Feature", "properties": { "id": 4251886989, "name": "Ga Hà Nội", "index_right": 41, "district": "Phường Văn Miếu - Quốc Tử Giám" }, "geometry": { "type": "Point", "coordinates": [ 105.8414006, 21.023447 ] } },
+{ "type": "Feature", "properties": { "id": 8739945246, "name": "Ga Hà Nội - 120 Lê Duẩn", "index_right": 41, "district": "Phường Văn Miếu - Quốc Tử Giám" }, "geometry": { "type": "Point", "coordinates": [ 105.8414062, 21.0233674 ] } },
+{ "type": "Feature", "properties": { "id": 8751624854, "name": "490 Xã Đàn", "index_right": 41, "district": "Phường Văn Miếu - Quốc Tử Giám" }, "geometry": { "type": "Point", "coordinates": [ 105.8314261, 21.0170646 ] } },
+{ "type": "Feature", "properties": { "id": 8895558433, "name": "358-360 Lê Duẩn", "index_right": 41, "district": "Phường Văn Miếu - Quốc Tử Giám" }, "geometry": { "type": "Point", "coordinates": [ 105.8412814, 21.0098271 ] } },
+{ "type": "Feature", "properties": { "id": 8895558437, "name": "254-256 Lê Duẩn", "index_right": 41, "district": "Phường Văn Miếu - Quốc Tử Giám" }, "geometry": { "type": "Point", "coordinates": [ 105.8413566, 21.0157015 ] } },
+{ "type": "Feature", "properties": { "id": 8900275037, "name": "242 Xã Đàn", "index_right": 41, "district": "Phường Văn Miếu - Quốc Tử Giám" }, "geometry": { "type": "Point", "coordinates": [ 105.8362177, 21.0122634 ] } },
+{ "type": "Feature", "properties": { "id": 11524039232, "name": "104 Nguyễn Khuyến", "index_right": 41, "district": "Phường Văn Miếu - Quốc Tử Giám" }, "geometry": { "type": "Point", "coordinates": [ 105.8387196, 21.0283371 ] } },
+{ "type": "Feature", "properties": { "id": 11524039233, "name": "Văn Miếu - Quốc Tử Giám", "index_right": 41, "district": "Phường Văn Miếu - Quốc Tử Giám" }, "geometry": { "type": "Point", "coordinates": [ 105.8351719, 21.0274357 ] } }
+]
+}
