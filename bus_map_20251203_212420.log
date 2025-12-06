@@ -1,0 +1,26 @@
+21:24:20 | INFO     | ============================================================
+21:24:20 | INFO     | 🚀 Starting map generation
+21:24:20 | INFO     | ============================================================
+21:24:20 | INFO     | ✅ Loaded 59 features from Phường_Cầu_Giấy.geojson
+21:24:20 | INFO     | ✅ Loaded 68 features from Phường_Từ_Liêm.geojson
+21:24:20 | INFO     | ✅ Loaded 43 features from Phường_Nghĩa_Đô.geojson
+21:24:20 | INFO     | ✅ Loaded 24 features from Phường_Phú_Diễn.geojson
+21:24:20 | INFO     | 📊 Total stops loaded: 194
+21:24:20 | INFO     | 📍 Map center: 21.034009, 105.781175
+21:24:20 | INFO     | ✅ Base map created with 4 tile layers
+21:24:20 | INFO     | 🗺️ Added border: Cầu Giấy
+21:24:21 | INFO     | 🗺️ Added border: Từ Liêm
+21:24:21 | INFO     | 🗺️ Added border: Nghĩa Đô
+21:24:21 | INFO     | 🗺️ Added border: Phú Diễn
+21:24:21 | INFO     | ✅ Added 194 clustered bus stop markers
+21:24:23 | INFO     | 🚍 Loaded 356 route features from hanoi_bus_routes_osm.geojson
+21:24:23 | INFO     | 🚍 Found 128/356 routes within 50m of stops
+21:24:23 | INFO     | ✅ Added 128 bus routes
+21:24:23 | INFO     | ✅ Added search functionality
+21:24:23 | INFO     | ✅ Added all map controls
+21:24:23 | INFO     | ✅ Added statistics panel
+21:24:23 | INFO     | ✅ Added distance calculator
+21:24:23 | INFO     | ============================================================
+21:24:23 | INFO     | ✅ Map generation completed successfully
+21:24:23 | INFO     | ============================================================
+21:24:24 | INFO     | 💾 Map saved to: D:\EPU\ky7\GIS\Finals\hanoi_busmap_enhanced.html

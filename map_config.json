@@ -1,0 +1,33 @@
+{
+  "folder_path": "district_bus_stops",
+  "output_path": "hanoi_busmap_enhanced.html",
+  "ward_borders_folder": "ward_borders_all",
+  "routes_file": "hanoi_bus_routes_osm.geojson",
+  
+  "default_tile": "CartoDB Voyager",
+  "zoom_start": 13,
+  "search_zoom": 16,
+  
+  "ward_files": [
+    "Phường_Cầu_Giấy.geojson",
+    "Phường_Từ_Liêm.geojson",
+    "Phường_Nghĩa_Đô.geojson",
+    "Phường_Phú_Diễn.geojson"
+  ],
+  
+  "ward_colors": {
+    "Phường_Cầu_Giấy.geojson": "#e41a1c",
+    "Phường_Từ_Liêm.geojson": "#377eb8",
+    "Phường_Nghĩa_Đô.geojson": "#4daf4a",
+    "Phường_Phú_Diễn.geojson": "#984ea3"
+  },
+  
+  "enable_clustering": true,
+  "enable_statistics": true,
+  "enable_distance_calc": true,
+  "enable_minimap": true,
+  "enable_measure": true,
+  "show_stops_by_default": false,
+  
+  "route_buffer_distances": [50, 100, 200]
+}
