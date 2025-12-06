@@ -4,7 +4,7 @@
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 { "type": "Feature", "properties": { "id": 8853934335, "name": "Chùa Ngọc Hồi - Đường mới", "index_right": 122, "district": "Xã Ngọc Hồi" }, "geometry": { "type": "Point", "coordinates": [ 105.8482933, 20.9239105 ] } },
-{ "type": "Feature", "properties": { "id": 8853934336, "name": "Đối diện trường THCS Ngọc Hồi - Đường mới", "index_right": 122, "district": "Xã Ngọc Hồi" }, "geometry": { "type": "Point", "coordinates": [ 105.8447308, 20.9230562 ] } },
+{ "type": "Feature", "properties": { "id": 8853934336, "name": "Đối diện trường Trung học cơ sở Ngọc Hồi - Đường mới", "index_right": 122, "district": "Xã Ngọc Hồi" }, "geometry": { "type": "Point", "coordinates": [ 105.8447308, 20.9230562 ] } },
 { "type": "Feature", "properties": { "id": 8853934337, "name": "Trước ngã 3 Lạc Thị 200m - Đường mới", "index_right": 122, "district": "Xã Ngọc Hồi" }, "geometry": { "type": "Point", "coordinates": [ 105.8370218, 20.9271955 ] } },
 { "type": "Feature", "properties": { "id": 8853934338, "name": "Qua Chợ Lạc Thị 200m", "index_right": 122, "district": "Xã Ngọc Hồi" }, "geometry": { "type": "Point", "coordinates": [ 105.8349048, 20.9247399 ] } },
 { "type": "Feature", "properties": { "id": 8853934339, "name": "Qua lối vào Chùa Thanh Dương 100m", "index_right": 122, "district": "Xã Ngọc Hồi" }, "geometry": { "type": "Point", "coordinates": [ 105.8334997, 20.9196995 ] } },
@@ -15,7 +15,7 @@
 { "type": "Feature", "properties": { "id": 8856174799, "name": "Đối diện lối vào Chùa Thanh Dương 100m", "index_right": 122, "district": "Xã Ngọc Hồi" }, "geometry": { "type": "Point", "coordinates": [ 105.8338616, 20.9206613 ] } },
 { "type": "Feature", "properties": { "id": 8856174800, "name": "Cách chợ Lạc Thị 100m", "index_right": 122, "district": "Xã Ngọc Hồi" }, "geometry": { "type": "Point", "coordinates": [ 105.8351423, 20.9253158 ] } },
 { "type": "Feature", "properties": { "id": 8856174801, "name": "Qua ngã 3 Lạc Thị 150m - Đường mới", "index_right": 122, "district": "Xã Ngọc Hồi" }, "geometry": { "type": "Point", "coordinates": [ 105.8374728, 20.9268244 ] } },
-{ "type": "Feature", "properties": { "id": 8856174802, "name": "Trường THCS Ngọc Hồi", "index_right": 122, "district": "Xã Ngọc Hồi" }, "geometry": { "type": "Point", "coordinates": [ 105.8452325, 20.9230401 ] } },
+{ "type": "Feature", "properties": { "id": 8856174802, "name": "Trường Trung học cơ sở Ngọc Hồi", "index_right": 122, "district": "Xã Ngọc Hồi" }, "geometry": { "type": "Point", "coordinates": [ 105.8452325, 20.9230401 ] } },
 { "type": "Feature", "properties": { "id": 8856174803, "name": "Đối diện Chùa Ngọc Hồi", "index_right": 122, "district": "Xã Ngọc Hồi" }, "geometry": { "type": "Point", "coordinates": [ 105.8491975, 20.9240166 ] } },
 { "type": "Feature", "properties": { "id": 9024366548, "name": "Đội 7 Thôn Ngọc Hồi - Km 186+350 Quốc Lộ 1A", "index_right": 122, "district": "Xã Ngọc Hồi" }, "geometry": { "type": "Point", "coordinates": [ 105.8516162, 20.9229985 ] } },
 { "type": "Feature", "properties": { "id": 9024366549, "name": "Cửa hàng Sơn Lucky house - Km 186+450 Quốc Lộ 1A", "index_right": 122, "district": "Xã Ngọc Hồi" }, "geometry": { "type": "Point", "coordinates": [ 105.8516953, 20.9233179 ] } },
@@ -29,9 +29,9 @@
 { "type": "Feature", "properties": { "id": 9024366557, "name": "Cách đường vào Đình Làng Yên Phú 150m(Chiều Thường Tín - Ga HN) - Quốc lộ 1A", "index_right": 122, "district": "Xã Ngọc Hồi" }, "geometry": { "type": "Point", "coordinates": [ 105.8527895, 20.9076355 ] } },
 { "type": "Feature", "properties": { "id": 9024366558, "name": "Qua lối rẽ vào Đình đền làng Yên Phú 100m (Chiều Ga HN-Thường Tín) - Quốc lộ 1A", "index_right": 122, "district": "Xã Ngọc Hồi" }, "geometry": { "type": "Point", "coordinates": [ 105.8531125, 20.9033926 ] } },
 { "type": "Feature", "properties": { "id": 9024366559, "name": "Đối diện tập thể Công ty 810 - Km 188+650 Quốc Lộ 1A", "index_right": 122, "district": "Xã Ngọc Hồi" }, "geometry": { "type": "Point", "coordinates": [ 105.8536587, 20.9019766 ] } },
-{ "type": "Feature", "properties": { "id": 12078321336, "name": "Trường THCS Đại Áng", "index_right": 122, "district": "Xã Ngọc Hồi" }, "geometry": { "type": "Point", "coordinates": [ 105.8298235, 20.9069781 ] } },
-{ "type": "Feature", "properties": { "id": 12078321337, "name": "Đối diện trường THPT Nguyễn Quốc Trinh", "index_right": 122, "district": "Xã Ngọc Hồi" }, "geometry": { "type": "Point", "coordinates": [ 105.8290574, 20.9038996 ] } },
-{ "type": "Feature", "properties": { "id": 12078321340, "name": "Trường THPT Nguyễn Quốc Trinh", "index_right": 122, "district": "Xã Ngọc Hồi" }, "geometry": { "type": "Point", "coordinates": [ 105.8293057, 20.9043088 ] } },
+{ "type": "Feature", "properties": { "id": 12078321336, "name": "Trường Trung học cơ sở Đại Áng", "index_right": 122, "district": "Xã Ngọc Hồi" }, "geometry": { "type": "Point", "coordinates": [ 105.8298235, 20.9069781 ] } },
+{ "type": "Feature", "properties": { "id": 12078321337, "name": "Đối diện trường Trung học phổ thông Nguyễn Quốc Trinh", "index_right": 122, "district": "Xã Ngọc Hồi" }, "geometry": { "type": "Point", "coordinates": [ 105.8290574, 20.9038996 ] } },
+{ "type": "Feature", "properties": { "id": 12078321340, "name": "Trường Trung học phổ thông Nguyễn Quốc Trinh", "index_right": 122, "district": "Xã Ngọc Hồi" }, "geometry": { "type": "Point", "coordinates": [ 105.8293057, 20.9043088 ] } },
 { "type": "Feature", "properties": { "id": 12078321341, "name": "UBND xã Đại Áng", "index_right": 122, "district": "Xã Ngọc Hồi" }, "geometry": { "type": "Point", "coordinates": [ 105.8301507, 20.9074163 ] } }
 ]
 }

@@ -19,7 +19,7 @@
 { "type": "Feature", "properties": { "id": 11527164028, "name": "838 Nguyễn Khoái", "index_right": 54, "district": "Phường Vĩnh Hưng" }, "geometry": { "type": "Point", "coordinates": [ 105.8857246, 20.9998848 ] } },
 { "type": "Feature", "properties": { "id": 11527164029, "name": "1032 Nguyễn Khoái", "index_right": 54, "district": "Phường Vĩnh Hưng" }, "geometry": { "type": "Point", "coordinates": [ 105.8900175, 20.9974978 ] } },
 { "type": "Feature", "properties": { "id": 11527164030, "name": "Trường Tiểu học Thanh Trì", "index_right": 54, "district": "Phường Vĩnh Hưng" }, "geometry": { "type": "Point", "coordinates": [ 105.8923973, 20.9942845 ] } },
-{ "type": "Feature", "properties": { "id": 11527164031, "name": "Qua lối vào Trường TH Tư Thục KT-DL Hoa Sữa 50m", "index_right": 54, "district": "Phường Vĩnh Hưng" }, "geometry": { "type": "Point", "coordinates": [ 105.8938144, 20.989379 ] } },
+{ "type": "Feature", "properties": { "id": 11527164031, "name": "Qua lối vào Trường Tiểu học Tư Thục KT-DL Hoa Sữa 50m", "index_right": 54, "district": "Phường Vĩnh Hưng" }, "geometry": { "type": "Point", "coordinates": [ 105.8938144, 20.989379 ] } },
 { "type": "Feature", "properties": { "id": 12077799918, "name": "183 Lĩnh Nam", "index_right": 54, "district": "Phường Vĩnh Hưng" }, "geometry": { "type": "Point", "coordinates": [ 105.8709003, 20.9854179 ] } }
 ]
 }

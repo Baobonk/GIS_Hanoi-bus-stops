@@ -76,7 +76,7 @@
 { "type": "Feature", "properties": { "id": 13043144595, "name": "Không tên", "index_right": 4, "district": "Tỉnh Bắc Ninh" }, "geometry": { "type": "Point", "coordinates": [ 105.92902, 21.1985374 ] } },
 { "type": "Feature", "properties": { "id": 13043144596, "name": "Không tên", "index_right": 4, "district": "Tỉnh Bắc Ninh" }, "geometry": { "type": "Point", "coordinates": [ 105.9281553, 21.1984772 ] } },
 { "type": "Feature", "properties": { "id": 13044609988, "name": "Phù Chẩn", "index_right": 4, "district": "Tỉnh Bắc Ninh" }, "geometry": { "type": "Point", "coordinates": [ 105.9673971, 21.093284 ] } },
-{ "type": "Feature", "properties": { "id": 13044609989, "name": "Phù Chẩn", "index_right": 4, "district": "Tỉnh Bắc Ninh" }, "geometry": { "type": "Point", "coordinates": [ 105.967314, 21.0935783 ] } },
+{ "type": "Feature", "properties": { "id": 13044609989, "name": "UBND phường Phù Chẩn", "index_right": 4, "district": "Tỉnh Bắc Ninh" }, "geometry": { "type": "Point", "coordinates": [ 105.967314, 21.0935783 ] } },
 { "type": "Feature", "properties": { "id": 13044609997, "name": "Rích Gạo - KCN VSIP", "index_right": 4, "district": "Tỉnh Bắc Ninh" }, "geometry": { "type": "Point", "coordinates": [ 105.9665168, 21.0881111 ] } },
 { "type": "Feature", "properties": { "id": 13179448583, "name": "Không tên", "index_right": 4, "district": "Tỉnh Bắc Ninh" }, "geometry": { "type": "Point", "coordinates": [ 105.9604193, 21.2054232 ] } },
 { "type": "Feature", "properties": { "id": 13179583565, "name": "Không tên", "index_right": 4, "district": "Tỉnh Bắc Ninh" }, "geometry": { "type": "Point", "coordinates": [ 105.9556145, 21.183768 ] } },
@@ -95,6 +95,10 @@
 { "type": "Feature", "properties": { "id": 13179594301, "name": "Không tên", "index_right": 4, "district": "Tỉnh Bắc Ninh" }, "geometry": { "type": "Point", "coordinates": [ 105.9563273, 21.1756528 ] } },
 { "type": "Feature", "properties": { "id": 13179594332, "name": "Không tên", "index_right": 4, "district": "Tỉnh Bắc Ninh" }, "geometry": { "type": "Point", "coordinates": [ 105.9561537, 21.1783923 ] } },
 { "type": "Feature", "properties": { "id": 13179594333, "name": "Không tên", "index_right": 4, "district": "Tỉnh Bắc Ninh" }, "geometry": { "type": "Point", "coordinates": [ 105.9559737, 21.1789098 ] } },
-{ "type": "Feature", "properties": { "id": 13179594334, "name": "Không tên", "index_right": 4, "district": "Tỉnh Bắc Ninh" }, "geometry": { "type": "Point", "coordinates": [ 105.9554375, 21.1834975 ] } }
+{ "type": "Feature", "properties": { "id": 13179594334, "name": "Không tên", "index_right": 4, "district": "Tỉnh Bắc Ninh" }, "geometry": { "type": "Point", "coordinates": [ 105.9554375, 21.1834975 ] } },
+{ "type": "Feature", "properties": { "id": 13319417336, "name": "Không tên", "index_right": 4, "district": "Tỉnh Bắc Ninh" }, "geometry": { "type": "Point", "coordinates": [ 105.9656717, 21.1233291 ] } },
+{ "type": "Feature", "properties": { "id": 13319417337, "name": "56-58 Ngô Gia Tự", "index_right": 4, "district": "Tỉnh Bắc Ninh" }, "geometry": { "type": "Point", "coordinates": [ 105.9657828, 21.1235986 ] } },
+{ "type": "Feature", "properties": { "id": 13319417349, "name": "114 Ngô Gia Tự - Từ Sơn", "index_right": 4, "district": "Tỉnh Bắc Ninh" }, "geometry": { "type": "Point", "coordinates": [ 105.9651291, 21.125561 ] } },
+{ "type": "Feature", "properties": { "id": 13319417353, "name": "Không tên", "index_right": 4, "district": "Tỉnh Bắc Ninh" }, "geometry": { "type": "Point", "coordinates": [ 105.9647185, 21.1262707 ] } }
 ]
 }

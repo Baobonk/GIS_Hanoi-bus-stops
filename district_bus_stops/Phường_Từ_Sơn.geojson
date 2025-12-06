@@ -23,7 +23,7 @@
 { "type": "Feature", "properties": { "id": 12696818060, "name": "Đối diện Đền Đô", "index_right": 114, "district": "Phường Từ Sơn" }, "geometry": { "type": "Point", "coordinates": [ 105.9598554, 21.1092623 ] } },
 { "type": "Feature", "properties": { "id": 12696818061, "name": "Đền Đô", "index_right": 114, "district": "Phường Từ Sơn" }, "geometry": { "type": "Point", "coordinates": [ 105.9595892, 21.1091639 ] } },
 { "type": "Feature", "properties": { "id": 13044609988, "name": "Phù Chẩn", "index_right": 114, "district": "Phường Từ Sơn" }, "geometry": { "type": "Point", "coordinates": [ 105.9673971, 21.093284 ] } },
-{ "type": "Feature", "properties": { "id": 13044609989, "name": "Phù Chẩn", "index_right": 114, "district": "Phường Từ Sơn" }, "geometry": { "type": "Point", "coordinates": [ 105.967314, 21.0935783 ] } },
+{ "type": "Feature", "properties": { "id": 13044609989, "name": "UBND phường Phù Chẩn", "index_right": 114, "district": "Phường Từ Sơn" }, "geometry": { "type": "Point", "coordinates": [ 105.967314, 21.0935783 ] } },
 { "type": "Feature", "properties": { "id": 13044609997, "name": "Rích Gạo - KCN VSIP", "index_right": 114, "district": "Phường Từ Sơn" }, "geometry": { "type": "Point", "coordinates": [ 105.9665168, 21.0881111 ] } }
 ]
 }

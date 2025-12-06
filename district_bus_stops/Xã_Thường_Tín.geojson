@@ -34,7 +34,7 @@
 { "type": "Feature", "properties": { "id": 12083496454, "name": "Qua ngã 3 thôn Thụy Ứng", "index_right": 98, "district": "Xã Thường Tín" }, "geometry": { "type": "Point", "coordinates": [ 105.8410327, 20.8688311 ] } },
 { "type": "Feature", "properties": { "id": 12579123794, "name": "Gần đường vào Trường Cao đẳng Kỹ thuật công nghệ Bách Khoa", "index_right": 98, "district": "Xã Thường Tín" }, "geometry": { "type": "Point", "coordinates": [ 105.8573712, 20.8899514 ] } },
 { "type": "Feature", "properties": { "id": 12579123795, "name": "Đối diện đường vào trường Cao đẳng kỹ thuật công nghệ Bách Khoa", "index_right": 98, "district": "Xã Thường Tín" }, "geometry": { "type": "Point", "coordinates": [ 105.8569673, 20.8906059 ] } },
-{ "type": "Feature", "properties": { "id": 12579155906, "name": "Trường THCS Văn Phú", "index_right": 98, "district": "Xã Thường Tín" }, "geometry": { "type": "Point", "coordinates": [ 105.8544261, 20.8674749 ] } },
+{ "type": "Feature", "properties": { "id": 12579155906, "name": "Trường Trung học cơ sở Văn Phú", "index_right": 98, "district": "Xã Thường Tín" }, "geometry": { "type": "Point", "coordinates": [ 105.8544261, 20.8674749 ] } },
 { "type": "Feature", "properties": { "id": 12579155917, "name": "Đối diện ngã 3 thôn Thụy Ứng", "index_right": 98, "district": "Xã Thường Tín" }, "geometry": { "type": "Point", "coordinates": [ 105.8402654, 20.8688003 ] } }
 ]
 }

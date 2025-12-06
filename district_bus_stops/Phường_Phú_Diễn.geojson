@@ -26,6 +26,7 @@
 { "type": "Feature", "properties": { "id": 11527354917, "name": "Cạnh nhà tang lễ Cầu Giấy", "index_right": 85, "district": "Phường Phú Diễn" }, "geometry": { "type": "Point", "coordinates": [ 105.7727381, 21.0406074 ] } },
 { "type": "Feature", "properties": { "id": 11528486379, "name": "37-39 Văn Tiến Dũng", "index_right": 85, "district": "Phường Phú Diễn" }, "geometry": { "type": "Point", "coordinates": [ 105.748851, 21.048925 ] } },
 { "type": "Feature", "properties": { "id": 11528486387, "name": "102 Văn Tiến Dũng", "index_right": 85, "district": "Phường Phú Diễn" }, "geometry": { "type": "Point", "coordinates": [ 105.7492242, 21.0492053 ] } },
-{ "type": "Feature", "properties": { "id": 12549076372, "name": "Giữa nhà 139 và 141 Phú Diễn", "index_right": 85, "district": "Phường Phú Diễn" }, "geometry": { "type": "Point", "coordinates": [ 105.7628891, 21.0463858 ] } }
+{ "type": "Feature", "properties": { "id": 12549076372, "name": "Giữa nhà 139 và 141 Phú Diễn", "index_right": 85, "district": "Phường Phú Diễn" }, "geometry": { "type": "Point", "coordinates": [ 105.7628891, 21.0463858 ] } },
+{ "type": "Feature", "properties": { "id": 13254325489, "name": "32 Hồ Tùng Mậu", "index_right": 85, "district": "Phường Phú Diễn" }, "geometry": { "type": "Point", "coordinates": [ 105.7787568, 21.0367791 ] } }
 ]
 }

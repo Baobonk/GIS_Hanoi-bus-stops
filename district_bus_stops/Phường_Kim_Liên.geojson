@@ -6,7 +6,7 @@
 { "type": "Feature", "properties": { "id": 738813771, "name": "101A2 TT Trung Tự - Phạm Ngọc Thạch", "index_right": 42, "district": "Phường Kim Liên" }, "geometry": { "type": "Point", "coordinates": [ 105.8354536, 21.0098051 ] } },
 { "type": "Feature", "properties": { "id": 738813975, "name": "109 Phạm Ngọc Thạch", "index_right": 42, "district": "Phường Kim Liên" }, "geometry": { "type": "Point", "coordinates": [ 105.8330653, 21.0078404 ] } },
 { "type": "Feature", "properties": { "id": 738814010, "name": "Bệnh viện Da liễu Trung ương", "index_right": 42, "district": "Phường Kim Liên" }, "geometry": { "type": "Point", "coordinates": [ 105.8384895, 21.0039551 ] } },
-{ "type": "Feature", "properties": { "id": 738814370, "name": "Siêu thị Uni mart - 8 Phạm Ngọc Thạch", "index_right": 42, "district": "Phường Kim Liên" }, "geometry": { "type": "Point", "coordinates": [ 105.8331123, 21.0075914 ] } },
+{ "type": "Feature", "properties": { "id": 738814370, "name": "Siêu thị Uni mart - 8 Phạm Ngọc Thạch", "index_right": 42, "district": "Phường Kim Liên" }, "geometry": { "type": "Point", "coordinates": [ 105.8335776, 21.0080224 ] } },
 { "type": "Feature", "properties": { "id": 738814494, "name": "Bệnh viện Bạch Mai - 78 Giải Phóng", "index_right": 42, "district": "Phường Kim Liên" }, "geometry": { "type": "Point", "coordinates": [ 105.8411653, 21.0010995 ] } },
 { "type": "Feature", "properties": { "id": 738814514, "name": "251 Chùa Bộc", "index_right": 42, "district": "Phường Kim Liên" }, "geometry": { "type": "Point", "coordinates": [ 105.8256241, 21.0087021 ] } },
 { "type": "Feature", "properties": { "id": 738815257, "name": "Đối diện Bảo tàng phòng không không quân - Trường Chinh", "index_right": 42, "district": "Phường Kim Liên" }, "geometry": { "type": "Point", "coordinates": [ 105.8311593, 21.0002255 ] } },
@@ -31,6 +31,6 @@
 { "type": "Feature", "properties": { "id": 8813408798, "name": "86 Trường Chinh", "index_right": 42, "district": "Phường Kim Liên" }, "geometry": { "type": "Point", "coordinates": [ 105.8384864, 20.998732 ] } },
 { "type": "Feature", "properties": { "id": 8895558438, "name": "Đối diện cổng Parabol ĐH Bách Khoa - 64 Giải Phóng", "index_right": 42, "district": "Phường Kim Liên" }, "geometry": { "type": "Point", "coordinates": [ 105.8411961, 21.004979 ] } },
 { "type": "Feature", "properties": { "id": 8900275036, "name": "71 Xã Đàn", "index_right": 42, "district": "Phường Kim Liên" }, "geometry": { "type": "Point", "coordinates": [ 105.8357557, 21.0123146 ] } },
-{ "type": "Feature", "properties": { "id": 11527354914, "name": "88 Phạm Ngọc Thạch", "index_right": 42, "district": "Phường Kim Liên" }, "geometry": { "type": "Point", "coordinates": [ 105.8316649, 21.0067561 ] } }
+{ "type": "Feature", "properties": { "id": 11527354914, "name": "88 Phạm Ngọc Thạch", "index_right": 42, "district": "Phường Kim Liên" }, "geometry": { "type": "Point", "coordinates": [ 105.831864, 21.006912 ] } }
 ]
 }

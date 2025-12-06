@@ -4,7 +4,7 @@
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 { "type": "Feature", "properties": { "id": 738813615, "name": "Số 3 Hàng Muối", "index_right": 37, "district": "Phường Hoàn Kiếm" }, "geometry": { "type": "Point", "coordinates": [ 105.8547093, 21.0343543 ] } },
-{ "type": "Feature", "properties": { "id": 738813955, "name": "80 Trần Nhật Duật", "index_right": 37, "district": "Phường Hoàn Kiếm" }, "geometry": { "type": "Point", "coordinates": [ 105.8527141, 21.0375659 ] } },
+{ "type": "Feature", "properties": { "id": 738813955, "name": "26 Trần Nhật Duật", "index_right": 37, "district": "Phường Hoàn Kiếm" }, "geometry": { "type": "Point", "coordinates": [ 105.8516045, 21.0388497 ] } },
 { "type": "Feature", "properties": { "id": 738814318, "name": "3A Phan Đình Phùng", "index_right": 37, "district": "Phường Hoàn Kiếm" }, "geometry": { "type": "Point", "coordinates": [ 105.8457666, 21.0398839 ] } },
 { "type": "Feature", "properties": { "id": 738814587, "name": "23 Hàng Tre", "index_right": 37, "district": "Phường Hoàn Kiếm" }, "geometry": { "type": "Point", "coordinates": [ 105.8556974, 21.0320235 ] } },
 { "type": "Feature", "properties": { "id": 738814670, "name": "115 Phùng Hưng", "index_right": 37, "district": "Phường Hoàn Kiếm" }, "geometry": { "type": "Point", "coordinates": [ 105.8458566, 21.0351886 ] } },
