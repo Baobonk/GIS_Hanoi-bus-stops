@@ -25,7 +25,7 @@
 { "type": "Feature", "properties": { "id": 9019312622, "name": "Trước 100m cầu Khê Tang", "index_right": 176, "district": "Xã Bình Minh" }, "geometry": { "type": "Point", "coordinates": [ 105.7842906, 20.9190504 ] } },
 { "type": "Feature", "properties": { "id": 9019312623, "name": "Lối vào làng văn hoá Thôn Hạ", "index_right": 176, "district": "Xã Bình Minh" }, "geometry": { "type": "Point", "coordinates": [ 105.7857625, 20.9099842 ] } },
 { "type": "Feature", "properties": { "id": 9019312624, "name": "Đối diện làng văn hóa Thôn Hạ", "index_right": 176, "district": "Xã Bình Minh" }, "geometry": { "type": "Point", "coordinates": [ 105.786072, 20.9102733 ] } },
-{ "type": "Feature", "properties": { "id": 9019312639, "name": "Đối diện Trường THPT Thanh Oai B", "index_right": 176, "district": "Xã Bình Minh" }, "geometry": { "type": "Point", "coordinates": [ 105.7728025, 20.8875368 ] } },
+{ "type": "Feature", "properties": { "id": 9019312639, "name": "Đối diện Trường Trung học phổ thông Thanh Oai B", "index_right": 176, "district": "Xã Bình Minh" }, "geometry": { "type": "Point", "coordinates": [ 105.7728025, 20.8875368 ] } },
 { "type": "Feature", "properties": { "id": 9019312640, "name": "Đối diện Bưu điện Bình Đà", "index_right": 176, "district": "Xã Bình Minh" }, "geometry": { "type": "Point", "coordinates": [ 105.7652688, 20.8882448 ] } },
 { "type": "Feature", "properties": { "id": 9019312641, "name": "Bưu điện Bình Đà", "index_right": 176, "district": "Xã Bình Minh" }, "geometry": { "type": "Point", "coordinates": [ 105.7648075, 20.8880663 ] } },
 { "type": "Feature", "properties": { "id": 11522308671, "name": "Cụm Công nghiệp Thanh Oai - Tuyến 33", "index_right": 176, "district": "Xã Bình Minh" }, "geometry": { "type": "Point", "coordinates": [ 105.7524595, 20.9268361 ] } },
@@ -43,9 +43,9 @@
 { "type": "Feature", "properties": { "id": 11549233114, "name": "Đối diện lối vào xóm Trung Việt, thôn Bãi 30m", "index_right": 176, "district": "Xã Bình Minh" }, "geometry": { "type": "Point", "coordinates": [ 105.7334567, 20.8974695 ] } },
 { "type": "Feature", "properties": { "id": 11549233115, "name": "Đối diện Trường tiểu học Cao Viên II, xóm Thượng Phúc", "index_right": 176, "district": "Xã Bình Minh" }, "geometry": { "type": "Point", "coordinates": [ 105.7330665, 20.9035054 ] } },
 { "type": "Feature", "properties": { "id": 11549233116, "name": "Trước lối vào tổ dân phố số 17 khoảng 50m", "index_right": 176, "district": "Xã Bình Minh" }, "geometry": { "type": "Point", "coordinates": [ 105.7389959, 20.9129937 ] } },
-{ "type": "Feature", "properties": { "id": 12083496439, "name": "Trường THCS Newton", "index_right": 176, "district": "Xã Bình Minh" }, "geometry": { "type": "Point", "coordinates": [ 105.7836591, 20.9251424 ] } },
+{ "type": "Feature", "properties": { "id": 12083496439, "name": "Trường Trung học cơ sở Newton", "index_right": 176, "district": "Xã Bình Minh" }, "geometry": { "type": "Point", "coordinates": [ 105.7836591, 20.9251424 ] } },
 { "type": "Feature", "properties": { "id": 12083496440, "name": "Tòa HH02E - KĐT Thanh Hà", "index_right": 176, "district": "Xã Bình Minh" }, "geometry": { "type": "Point", "coordinates": [ 105.7837524, 20.935094 ] } },
-{ "type": "Feature", "properties": { "id": 12579155904, "name": "Trường THCS Bình Minh", "index_right": 176, "district": "Xã Bình Minh" }, "geometry": { "type": "Point", "coordinates": [ 105.7704551, 20.8879772 ] } },
-{ "type": "Feature", "properties": { "id": 12579155905, "name": "Đối diện Trường THCS Bình Minh", "index_right": 176, "district": "Xã Bình Minh" }, "geometry": { "type": "Point", "coordinates": [ 105.7697708, 20.8879418 ] } }
+{ "type": "Feature", "properties": { "id": 12579155904, "name": "Trường Trung học cơ sở Bình Minh", "index_right": 176, "district": "Xã Bình Minh" }, "geometry": { "type": "Point", "coordinates": [ 105.7704551, 20.8879772 ] } },
+{ "type": "Feature", "properties": { "id": 12579155905, "name": "Đối diện Trường Trung học cơ sở Bình Minh", "index_right": 176, "district": "Xã Bình Minh" }, "geometry": { "type": "Point", "coordinates": [ 105.7697708, 20.8879418 ] } }
 ]
 }

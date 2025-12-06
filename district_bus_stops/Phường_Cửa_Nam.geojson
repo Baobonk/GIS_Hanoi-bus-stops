@@ -48,6 +48,6 @@
 { "type": "Feature", "properties": { "id": 11527164033, "name": "69 Lý Thường Kiệt", "index_right": 39, "district": "Phường Cửa Nam" }, "geometry": { "type": "Point", "coordinates": [ 105.8454054, 21.0247902 ] } },
 { "type": "Feature", "properties": { "id": 11586827706, "name": "Đối diện 52 Nguyễn Du", "index_right": 39, "district": "Phường Cửa Nam" }, "geometry": { "type": "Point", "coordinates": [ 105.8461108, 21.0193719 ] } },
 { "type": "Feature", "properties": { "id": 12887824214, "name": "Bảo tàng Công an Nhân dân - Trần Bình Trọng", "index_right": 39, "district": "Phường Cửa Nam" }, "geometry": { "type": "Point", "coordinates": [ 105.8452842, 21.0223672 ] } },
-{ "type": "Feature", "properties": { "id": 12887824215, "name": "Trường THPT Việt Đức", "index_right": 39, "district": "Phường Cửa Nam" }, "geometry": { "type": "Point", "coordinates": [ 105.8494616, 21.0235982 ] } }
+{ "type": "Feature", "properties": { "id": 12887824215, "name": "Trường Trung học phổ thông Việt Đức", "index_right": 39, "district": "Phường Cửa Nam" }, "geometry": { "type": "Point", "coordinates": [ 105.8494616, 21.0235982 ] } }
 ]
 }

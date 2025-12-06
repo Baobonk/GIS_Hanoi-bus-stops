@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+
 """
 save_all_hanoi_wards_polygons.py
 ----------------------------------------

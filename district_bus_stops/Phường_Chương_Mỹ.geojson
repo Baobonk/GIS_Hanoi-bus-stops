@@ -4,11 +4,11 @@
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 { "type": "Feature", "properties": { "id": 7409610482, "name": "Qua UBND Xã Phụng Châu 50M", "index_right": 129, "district": "Phường Chương Mỹ" }, "geometry": { "type": "Point", "coordinates": [ 105.7073734, 20.9473587 ] } },
-{ "type": "Feature", "properties": { "id": 7409610483, "name": "Trường THCS Phụng Châu", "index_right": 129, "district": "Phường Chương Mỹ" }, "geometry": { "type": "Point", "coordinates": [ 105.7037751, 20.9484979 ] } },
+{ "type": "Feature", "properties": { "id": 7409610483, "name": "Trường Trung học cơ sở Phụng Châu", "index_right": 129, "district": "Phường Chương Mỹ" }, "geometry": { "type": "Point", "coordinates": [ 105.7037751, 20.9484979 ] } },
 { "type": "Feature", "properties": { "id": 7409651434, "name": "Đối diện Cổng trường ĐHSP thể dục thể thao Hà Nội", "index_right": 129, "district": "Phường Chương Mỹ" }, "geometry": { "type": "Point", "coordinates": [ 105.7086108, 20.9404374 ] } },
 { "type": "Feature", "properties": { "id": 7848823525, "name": "Trạm Y Tế Xã Phụng Châu", "index_right": 129, "district": "Phường Chương Mỹ" }, "geometry": { "type": "Point", "coordinates": [ 105.7074875, 20.9471602 ] } },
 { "type": "Feature", "properties": { "id": 7860662663, "name": "Nhà thờ Giáo họ Phượng Bãi", "index_right": 129, "district": "Phường Chương Mỹ" }, "geometry": { "type": "Point", "coordinates": [ 105.7205199, 20.9330827 ] } },
-{ "type": "Feature", "properties": { "id": 7868740589, "name": "Đối Diện Trường THCS Phụng Châu", "index_right": 129, "district": "Phường Chương Mỹ" }, "geometry": { "type": "Point", "coordinates": [ 105.7036603, 20.9485665 ] } },
+{ "type": "Feature", "properties": { "id": 7868740589, "name": "Đối Diện Trường Trung học cơ sở Phụng Châu", "index_right": 129, "district": "Phường Chương Mỹ" }, "geometry": { "type": "Point", "coordinates": [ 105.7036603, 20.9485665 ] } },
 { "type": "Feature", "properties": { "id": 8948067790, "name": "Đối diện Công ty Cổ phần Cơ khí Xây dựng Hà Thái", "index_right": 129, "district": "Phường Chương Mỹ" }, "geometry": { "type": "Point", "coordinates": [ 105.7235915, 20.9350099 ] } },
 { "type": "Feature", "properties": { "id": 8948067791, "name": "UBND phường Biên Giang", "index_right": 129, "district": "Phường Chương Mỹ" }, "geometry": { "type": "Point", "coordinates": [ 105.7168868, 20.9306055 ] } },
 { "type": "Feature", "properties": { "id": 8948067792, "name": "Gần trụ sở Công an huyện Chương Mỹ", "index_right": 129, "district": "Phường Chương Mỹ" }, "geometry": { "type": "Point", "coordinates": [ 105.7094021, 20.9256601 ] } },

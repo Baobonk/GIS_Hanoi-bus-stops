@@ -30,6 +30,16 @@
 { "type": "Feature", "properties": { "id": 11549233150, "name": "Qua Chùa Thượng Khách", "index_right": 170, "district": "Xã Hòa Phú" }, "geometry": { "type": "Point", "coordinates": [ 105.7357414, 20.837407 ] } },
 { "type": "Feature", "properties": { "id": 11549233151, "name": "Đối diện 145 Thôn An Mỹ", "index_right": 170, "district": "Xã Hòa Phú" }, "geometry": { "type": "Point", "coordinates": [ 105.7281987, 20.8413231 ] } },
 { "type": "Feature", "properties": { "id": 11549233152, "name": "Gần Ngõ Tân Lập", "index_right": 170, "district": "Xã Hòa Phú" }, "geometry": { "type": "Point", "coordinates": [ 105.7279807, 20.8438276 ] } },
-{ "type": "Feature", "properties": { "id": 11549233153, "name": "Qua Chùa Bảo Lâm", "index_right": 170, "district": "Xã Hòa Phú" }, "geometry": { "type": "Point", "coordinates": [ 105.7320489, 20.8450278 ] } }
+{ "type": "Feature", "properties": { "id": 11549233153, "name": "Qua Chùa Bảo Lâm", "index_right": 170, "district": "Xã Hòa Phú" }, "geometry": { "type": "Point", "coordinates": [ 105.7320489, 20.8450278 ] } },
+{ "type": "Feature", "properties": { "id": 13293847699, "name": "Đình Quán Bà", "index_right": 170, "district": "Xã Hòa Phú" }, "geometry": { "type": "Point", "coordinates": [ 105.7483613, 20.8258353 ] } },
+{ "type": "Feature", "properties": { "id": 13293847700, "name": "Trường Trung học cơ sở Phú Nam An", "index_right": 170, "district": "Xã Hòa Phú" }, "geometry": { "type": "Point", "coordinates": [ 105.7438297, 20.8164735 ] } },
+{ "type": "Feature", "properties": { "id": 13293910001, "name": "Chùa Yên Nhân", "index_right": 170, "district": "Xã Hòa Phú" }, "geometry": { "type": "Point", "coordinates": [ 105.7328874, 20.8118746 ] } },
+{ "type": "Feature", "properties": { "id": 13293910002, "name": "Trạm y tế xã Hòa Phú", "index_right": 170, "district": "Xã Hòa Phú" }, "geometry": { "type": "Point", "coordinates": [ 105.725897, 20.8107723 ] } },
+{ "type": "Feature", "properties": { "id": 13293910003, "name": "Trường mầm non Hòa Chính", "index_right": 170, "district": "Xã Hòa Phú" }, "geometry": { "type": "Point", "coordinates": [ 105.7135875, 20.8104664 ] } },
+{ "type": "Feature", "properties": { "id": 13293910009, "name": "Trường mầm non Hòa Chính", "index_right": 170, "district": "Xã Hòa Phú" }, "geometry": { "type": "Point", "coordinates": [ 105.7136376, 20.8103602 ] } },
+{ "type": "Feature", "properties": { "id": 13293910010, "name": "Trạm y tế xã Hòa Phú", "index_right": 170, "district": "Xã Hòa Phú" }, "geometry": { "type": "Point", "coordinates": [ 105.7261535, 20.8106752 ] } },
+{ "type": "Feature", "properties": { "id": 13293910011, "name": "Chùa Yên Nhân", "index_right": 170, "district": "Xã Hòa Phú" }, "geometry": { "type": "Point", "coordinates": [ 105.7331223, 20.8117877 ] } },
+{ "type": "Feature", "properties": { "id": 13293910012, "name": "Trường Trung học cơ sở Phú Nam An", "index_right": 170, "district": "Xã Hòa Phú" }, "geometry": { "type": "Point", "coordinates": [ 105.7436065, 20.8162718 ] } },
+{ "type": "Feature", "properties": { "id": 13293910013, "name": "Đình Quán Bà", "index_right": 170, "district": "Xã Hòa Phú" }, "geometry": { "type": "Point", "coordinates": [ 105.748356, 20.8256686 ] } }
 ]
 }

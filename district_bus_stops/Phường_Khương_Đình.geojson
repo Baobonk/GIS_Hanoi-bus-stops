@@ -26,6 +26,6 @@
 { "type": "Feature", "properties": { "id": 8845983484, "name": "Viện Công nghệ Thực phẩm Trung ương", "index_right": 59, "district": "Phường Khương Đình" }, "geometry": { "type": "Point", "coordinates": [ 105.8047431, 20.9898822 ] } },
 { "type": "Feature", "properties": { "id": 8939177165, "name": "Ga Thượng Đình - Nguyễn Trãi", "index_right": 59, "district": "Phường Khương Đình" }, "geometry": { "type": "Point", "coordinates": [ 105.8127417, 20.9977768 ] } },
 { "type": "Feature", "properties": { "id": 9342635859, "name": "Trước số nhà 84 Vương Thừa Vũ", "index_right": 59, "district": "Phường Khương Đình" }, "geometry": { "type": "Point", "coordinates": [ 105.8217741, 20.9991459 ] } },
-{ "type": "Feature", "properties": { "id": 10028987061, "name": "29T Nguyễn Trãi - Cầu vượt đi bộ Royal City", "index_right": 59, "district": "Phường Khương Đình" }, "geometry": { "type": "Point", "coordinates": [ 105.815295, 20.9994367 ] } }
+{ "type": "Feature", "properties": { "id": 10028987061, "name": "129T Nguyễn Trãi - Cầu vượt đi bộ Royal City", "index_right": 59, "district": "Phường Khương Đình" }, "geometry": { "type": "Point", "coordinates": [ 105.815295, 20.9994367 ] } }
 ]
 }
