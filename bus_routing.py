@@ -22,6 +22,9 @@ class BusRoutingEngine:
         self.max_walk_distance_m = 120  # Khoảng cách tối đa để tạo kết nối đi bộ
         self.side_eps = 0.0001          # Bước lấy hướng tuyến để xác định bên đường
 
+
+
+#==================== TÌM TRẠM GẦN NHẤT ====================
     def find_nearest_stop(self, lat, lon, limit=5):
         """Tìm trạm xe buýt gần nhất với tọa độ (lat, lon)"""
         if self.stops_gdf is None:
@@ -41,6 +44,7 @@ class BusRoutingEngine:
         # Trả về danh sách tên trạm (unique để tránh trùng lặp)
         return nearest_stops['name'].unique().tolist()
 
+#==================== TẢI DỮ LIỆU ====================
     def load_data(self):
         """Đọc dữ liệu GeoJSON"""
         print("⏳ Đang đọc dữ liệu...")
@@ -54,6 +58,7 @@ class BusRoutingEngine:
         else:
             raise FileNotFoundError("Không tìm thấy file dữ liệu GeoJSON.")
 
+#==================== XÂY DỰNG ĐỒ THỊ ====================
     def build_graph(self):
         """
         Xây dựng đồ thị mạng lưới xe buýt.
