@@ -33,7 +33,7 @@ TEMPLATE = """
         
         #routing-panel {
             position: absolute;
-            top: 70px;
+            top: 120px;
             left: 10px; /* Chuyển sang trái để tránh đè lên Layer Control bên phải */
             width: 320px;
             background: white;

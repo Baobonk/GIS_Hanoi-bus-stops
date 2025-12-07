@@ -349,7 +349,7 @@ class MapBuilder:
         
         logger.info(f"✅ Base map created with {len(tiles)} tile layers")
         return m
-    
+    # ==================== MAP LAYERS ====================
     def add_ward_borders(self) -> None:
         """Add ward border layers to the map."""
         if self.map is None:
@@ -588,7 +588,8 @@ class MapBuilder:
             search_label="name",
             placeholder="🔍 Search for bus stop name...",
             collapsed=False,
-            search_zoom=self.config.search_zoom
+            search_zoom=self.config.search_zoom,
+            position='topright'
         ).add_to(self.map)
         
         logger.info("✅ Added search functionality")
@@ -599,10 +600,10 @@ class MapBuilder:
             raise RuntimeError("Map not initialized.")
         
         # Locate control
-        LocateControl(auto_start=False, position='topleft').add_to(self.map)
+        LocateControl(auto_start=False, position='topright').add_to(self.map)
         
         # Fullscreen
-        Fullscreen(position='topleft').add_to(self.map)
+        Fullscreen(position='topright').add_to(self.map)
         
         # Measure control
         if self.config.enable_measure:
@@ -653,16 +654,16 @@ class MapBuilder:
         /* Small floating stats button */
         #stats-btn {{
             position: fixed;
-            top: 80px;
-            right: 10px;
+            top: 60px;
+            left: 60px;
             z-index: 99999;
             background: #ff7800;
             color: white;
             border: none;
-            padding: 8px 10px;
-            border-radius: 6px;
+            padding: 10px 20px;
+            border-radius: 30px;
             font-weight: bold;
-            box-shadow: 0 2px 6px rgba(0,0,0,0.3);
+            box-shadow: 0 4px 10px rgba(0,0,0,0.2);
             cursor: pointer;
         }}
         /* Modal backdrop */
@@ -676,8 +677,8 @@ class MapBuilder:
         /* Modal content */
         #stats-modal {{
             position: fixed;
-            top: 80px;
-            right: 10px;
+            top: 110px;
+            left: 60px;
             width: 320px;
             max-height: 70vh;
             overflow: auto;
